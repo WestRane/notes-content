@@ -1,7 +1,7 @@
 ---
 title: "Prison School"
 category: anime
-score: 7
+score: 8
 locale: ru
 tags:
   - log

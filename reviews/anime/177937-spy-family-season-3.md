@@ -14,6 +14,7 @@ ids:
 ---
 
 ## The Weight of a Peaceful Smile
+*January 2026*
 
 ![](https://i.imgur.com/BUITKKE.png)
 

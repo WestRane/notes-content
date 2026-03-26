@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700&family=Source+Sans+Pro:wght@400;600&family=IBM+Plex+Mono&display=swap');
+
+:is(.el-h1, .el-h2, .el-h3, .el-h4, .el-h5, .el-h6):has(+ .el-p > p > em:only-child) :is(h1, h2, h3, h4, h5, h6) {
+  margin-bottom: 0;
+}
+
+:is(.el-h1, .el-h2, .el-h3, .el-h4, .el-h5, .el-h6) + .el-p:has(> p > em:only-child) p {
+  margin-block-start: 0;
+}
+
+.el-p img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.markdown-rendered {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+.markdown-rendered code,
+.markdown-rendered pre {
+  font-family: 'IBM Plex Mono', monospace;
+}

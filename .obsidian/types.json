@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "score": "number",
+    "anilist_id": "number",
+    "type": "text",
+    "spoiler": "checkbox",
+    "created": "datetime",
+    "modified": "datetime"
+  }
+}

@@ -15,9 +15,33 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
+    "bf262960-9f97-4364-9a46-2cfe22aa9b2a": {
+      "args": [
+        "-NoExit -Command \"cd D:\\resources\\notes\\public\""
+      ],
+      "executable": "powershell.exe",
+      "followTheme": true,
+      "name": "win-notes-content",
+      "platforms": {
+        "darwin": false,
+        "linux": false,
+        "win32": true
+      },
+      "restoreHistory": false,
+      "rightClickAction": "copyPaste",
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "external"
+    },
     "debbf750-a818-45bc-b5a9-90323f812327": {
       "args": [
-        "wsl.exe bash -l -c \"cd ~/notes-web && npm run dev"
+        "wsl.exe bash -l -c \"cd ~/notes-web && npm run dev\" && explorer.exe http://localhost:8080"
       ],
       "executable": "C:\\Users\\eastr\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
       "followTheme": true,

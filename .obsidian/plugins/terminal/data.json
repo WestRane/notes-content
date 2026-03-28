@@ -1,0 +1,47 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "interceptLogging": true,
+  "language": "",
+  "macOSOptionKeyPassthrough": true,
+  "newInstanceBehavior": "newHorizontalSplit",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": false,
+  "pinNewInstance": true,
+  "preferredRenderer": "webgl",
+  "profiles": {
+    "debbf750-a818-45bc-b5a9-90323f812327": {
+      "args": [
+        "wsl.exe bash -l -c \"cd ~/notes-web && npm run dev"
+      ],
+      "executable": "C:\\Users\\eastr\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+      "followTheme": true,
+      "name": "wsl-notes-web",
+      "platforms": {
+        "darwin": false,
+        "linux": false,
+        "win32": true
+      },
+      "restoreHistory": false,
+      "rightClickAction": "copyPaste",
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "external"
+    }
+  },
+  "defaultProfile": null,
+  "terminalOptions": {
+    "documentOverride": null
+  }
+}

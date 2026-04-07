@@ -20,7 +20,7 @@ This is actually pretty nice.
 
 I'm not gonna lie, the duration of the episodes is quite disappointing - they are simply too short - but the content is good. Not only did they show us how the club girls behaved toward one another at the start of their friendship, but also how supportive and wholesome they were from the very beginning. A random girl from Shibuya? Okay, let's organize an entire hand-made stamp rally (!) to make her feel welcome and know the surroundings better.
 
-Humor is as good as always, the music is genuinely breathtaking, and the visuals look magnificient - especially for a TV short. Even the absence of Rin for most of the time didn't hurt the show much. It definitely lacks some of the magic when the introverted side of the franchise isn't around, but it's still funny and pleasant.
+Humor is as good as always, the music is genuinely breathtaking, and the visuals look magnificent - especially for a TV short. Even the absence of Rin for most of the time didn't hurt the show much. It definitely lacks some of the magic when the introverted side of the franchise isn't around, but it's still funny and pleasant.
 
 Despite that, I should also say the girls dived too deep into the details of the locations. It's a stamp rally, that's to be expected and stuff, but if you're not familiar with Japan geography and culture, it becomes less like a nice detail and more like a niche detail for the chosen ones. It's too local. While it feels nice in the full-fledged seasons, because it's well-seasoned with these details, it's a touch worse here, because this entire short *is* about these prefectures, products and places.
 

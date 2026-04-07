@@ -4,7 +4,7 @@ category: anime
 score: 8
 locale: ru
 tags:
-  - note
+  - log
 spoiler: false
 created: 2020-01-01T16:44:00+02:00
 modified: 2026-02-10T17:58:00+02:00

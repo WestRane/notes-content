@@ -4,7 +4,7 @@ category: anime
 score: 8
 locale: ru
 tags:
-  - review
+  - note
 spoiler: true
 created: 2025-11-27T19:52:00+02:00
 modified:

@@ -1,5 +1,5 @@
 ---
-title: "Ore ga Ojou-sama Gakkou ni "Shomin Sample" Toshite Gets-Sareta Ken"
+title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken"
 category: anime
 score: 6
 locale: ru

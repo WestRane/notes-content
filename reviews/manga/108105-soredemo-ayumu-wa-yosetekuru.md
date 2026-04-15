@@ -1,5 +1,9 @@
 ---
 title: "Soredemo Ayumu wa Yosetekuru"
+aka:
+  - "When Will Ayumu Make His Move?"
+  - "Аюму всё равно станет ближе"
+  - "Коли Аюму зробить свій крок?"
 category: manga
 score: 8
 locale: ru

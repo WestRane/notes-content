@@ -1,5 +1,9 @@
 ---
 title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen"
+aka:
+  - "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV"
+  - "Может, я встречу тебя в подземелье? 4"
+  - "Невже шукати дівчину в підземеллі — неправильно? - 4 сезон"
 category: anime
 score: 3
 locale: ru

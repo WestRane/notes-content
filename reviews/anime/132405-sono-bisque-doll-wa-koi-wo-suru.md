@@ -1,5 +1,9 @@
 ---
 title: "Sono Bisque Doll wa Koi wo Suru"
+aka:
+  - "My Dress-Up Darling"
+  - "Эта фарфоровая кукла влюбилась"
+  - "Ця порцелянова лялечка закохалася"
 category: anime
 score: 5
 locale: ru

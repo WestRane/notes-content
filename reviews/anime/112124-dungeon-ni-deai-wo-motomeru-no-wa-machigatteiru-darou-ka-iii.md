@@ -1,5 +1,9 @@
 ---
 title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III"
+aka:
+  - "Is It Wrong to Try to Pick Up Girls in a Dungeon? III"
+  - "Может, я встречу тебя в подземелье? 3"
+  - "Невже шукати дівчину в підземеллі — неправильно? - 3 сезон"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Youjo Senki"
+aka:
+  - "Saga of Tanya the Evil"
+  - "Военная хроника маленькой девочки"
+  - "Військова історія маленької дівчинки"
 category: anime
 score: 8
 locale: ru

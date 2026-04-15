@@ -1,5 +1,9 @@
 ---
 title: "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+aka:
+  - "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?"
+  - "Что ты будешь делать во время апокалипсиса? Будешь ли ты занят? Могу ли я спасти тебя?"
+  - "Кінець світу: Маєш плани на кінець світу? Ти не зайнятий? Врятуєш нас?"
 category: anime
 score: 7
 locale: ru

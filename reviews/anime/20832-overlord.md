@@ -1,5 +1,9 @@
 ---
 title: "Overlord"
+aka:
+  - "Overlord"
+  - "Повелитель"
+  - "Повелитель"
 category: anime
 score: 8
 locale: ru

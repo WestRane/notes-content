@@ -1,5 +1,9 @@
 ---
 title: "Dr. STONE: NEW WORLD Part 2"
+aka:
+  - "Dr. STONE New World Part 2"
+  - "Доктор Стоун: Новый мир. Часть 2"
+  - "Доктор Стоун: Новий світ - 2 частина"
 category: anime
 score: 7
 locale: ru

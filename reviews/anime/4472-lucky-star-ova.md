@@ -1,5 +1,9 @@
 ---
 title: "Lucky☆Star OVA"
+aka:
+  - "Lucky☆Star OVA"
+  - "Счастливая звезда OVA"
+  - "Щаслива☆Зірка OVA"
 category: anime
 score: 7
 locale: ru

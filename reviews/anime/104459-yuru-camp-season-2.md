@@ -1,5 +1,9 @@
 ---
 title: "Yuru Camp△ SEASON 2"
+aka:
+  - "LAID-BACK CAMP SEASON2"
+  - "Лагерь на свежем воздухе 2"
+  - "Дівчачий табір△ - 2 сезон"
 category: anime
 score: 9
 locale: ru

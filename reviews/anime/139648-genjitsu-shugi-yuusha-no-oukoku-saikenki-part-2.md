@@ -1,5 +1,9 @@
 ---
 title: "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2"
+aka:
+  - "How a Realist Hero Rebuilt the Kingdom Part 2"
+  - "Герой-рационал перестраивает королевство. Часть 2"
+  - "Як герой-реаліст перебудовує королівство - 2 частина"
 category: anime
 score: 7
 locale: ru

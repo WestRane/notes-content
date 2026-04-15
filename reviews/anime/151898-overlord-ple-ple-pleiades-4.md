@@ -1,5 +1,8 @@
 ---
 title: "Overlord: Ple Ple Pleiades 4"
+aka:
+  - "Повелитель: Пле-пле-плеяды 4"
+  - "Повелитель: Пле-пле плеяди - 4 сезон"
 category: anime
 score: 6
 locale: ru

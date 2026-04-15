@@ -1,5 +1,9 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 4"
+aka:
+  - "The Rising of the Shield Hero Season 4"
+  - "Восхождение героя щита 4"
+  - "Сходження Героя щита - 4 сезон"
 category: anime
 score: 4
 locale: ru

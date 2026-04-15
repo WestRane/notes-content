@@ -1,5 +1,9 @@
 ---
 title: "SAKAMOTO DAYS"
+aka:
+  - "SAKAMOTO DAYS"
+  - "Дни Сакамото"
+  - "Дні Сакамото"
 category: anime
 score: 6
 locale: ru

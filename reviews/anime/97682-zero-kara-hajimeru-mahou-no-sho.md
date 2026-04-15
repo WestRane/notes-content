@@ -1,5 +1,9 @@
 ---
 title: "Zero kara Hajimeru Mahou no Sho"
+aka:
+  - "Grimoire of Zero"
+  - "Книга магии для начинающих с нуля"
+  - "Книга магії з Нуля"
 category: anime
 score: 6
 locale: ru

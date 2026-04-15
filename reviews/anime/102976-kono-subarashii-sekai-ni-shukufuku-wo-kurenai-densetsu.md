@@ -1,5 +1,9 @@
 ---
 title: "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+aka:
+  - "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson"
+  - "Этот замечательный мир! Багровая легенда"
+  - "Цей прекрасний світ, благословенний Богом!: Багряна легенда"
 category: anime
 score: 8
 locale: ru

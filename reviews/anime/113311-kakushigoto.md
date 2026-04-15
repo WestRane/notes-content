@@ -1,5 +1,9 @@
 ---
 title: "Kakushigoto"
+aka:
+  - "Kakushigoto"
+  - "Скрытые вещи"
+  - "Приховані речі"
 category: anime
 score: 6
 locale: ru

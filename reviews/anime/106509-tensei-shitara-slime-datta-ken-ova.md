@@ -1,5 +1,9 @@
 ---
 title: "Tensei Shitara Slime Datta Ken OVA"
+aka:
+  - "That Time I Got Reincarnated as a Slime OAD"
+  - "О моём перерождении в слизь OVA"
+  - "Про моє переродження в слиз OVA"
 category: anime
 score: 6
 locale: ru

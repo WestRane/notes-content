@@ -1,5 +1,9 @@
 ---
 title: "Hibi wa Sugiredo Meshi Umashi"
+aka:
+  - "Food for the Soul"
+  - "Дни проходят, а еда по-прежнему хороша"
+  - "Дні минають, та їжа завжди смачна"
 category: anime
 score: 7
 locale: ru

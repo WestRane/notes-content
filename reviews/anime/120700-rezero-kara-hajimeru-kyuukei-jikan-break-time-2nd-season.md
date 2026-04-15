@@ -1,5 +1,8 @@
 ---
 title: "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season"
+aka:
+  - "Re:Zero. Перерыв с нуля 2"
+  - "Переродження: Перервочка з нуля в іншому світі - 2 сезон"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Higashi no Eden"
+aka:
+  - "Eden of the East"
+  - "Восточный Эдем"
+  - "Східний едем"
 category: anime
 score: 5
 locale: ru

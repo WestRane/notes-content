@@ -1,5 +1,9 @@
 ---
 title: "[Oshi no Ko] 2nd Season"
+aka:
+  - "Oshi no Ko Season 2"
+  - "Ребёнок идола 2"
+  - "Діти улюблениці - 2 сезон"
 category: anime
 score: 7
 locale: ru

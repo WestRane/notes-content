@@ -1,5 +1,9 @@
 ---
 title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+aka:
+  - "The Angel Next Door Spoils Me Rotten"
+  - "Ангел по соседству"
+  - "Янгол по сусідству мене розбещує"
 category: anime
 score: 4
 locale: ru

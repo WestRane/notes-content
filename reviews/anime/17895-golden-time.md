@@ -1,5 +1,9 @@
 ---
 title: "Golden Time"
+aka:
+  - "Golden Time"
+  - "Золотая пора"
+  - "Золота пора"
 category: anime
 score: 4
 locale: ru

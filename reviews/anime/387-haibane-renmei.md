@@ -1,5 +1,9 @@
 ---
 title: "Haibane Renmei"
+aka:
+  - "Haibane Renmei"
+  - "Союз Серокрылых"
+  - "Товариство Сірокрилих"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Non Non Biyori"
+aka:
+  - "Non Non Biyori"
+  - "Деревенская глубинка"
+  - "Безтурботні часи"
 category: anime
 score: 4
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai"
+aka:
+  - "Rascal Does Not Dream of a Sister Venturing Out"
+  - "Этот глупый свин не понимает мечту сестры на прогулке"
+  - "Негідники не мріють про сестер на прогулянці"
 category: anime
 score: 7
 locale: ru

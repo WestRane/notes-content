@@ -1,5 +1,9 @@
 ---
 title: "Noragami"
+aka:
+  - "Noragami"
+  - "Бездомный бог"
+  - "Нораґамі: Безхатній бог"
 category: anime
 score: 8
 locale: ru

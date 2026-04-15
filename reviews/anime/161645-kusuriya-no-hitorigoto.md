@@ -1,5 +1,9 @@
 ---
 title: "Kusuriya no Hitorigoto"
+aka:
+  - "The Apothecary Diaries"
+  - "Монолог фармацевта"
+  - "Монолог травниці"
 category: anime
 score: 8
 locale: ru

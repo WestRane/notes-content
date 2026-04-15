@@ -1,5 +1,7 @@
 ---
 title: "Black Bullet: Tenchuu＊Girls"
+aka:
+  - "Чёрная пуля: Спецвыпуск"
 category: anime
 score: 5
 locale: ru

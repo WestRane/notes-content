@@ -1,5 +1,9 @@
 ---
 title: "Shinmai Renkinjutsushi no Tenpo Keiei"
+aka:
+  - "Management of a Novice Alchemist"
+  - "Магазинчик начинающего алхимика"
+  - "Алхімічна крамничка Сараси"
 category: anime
 score: 5
 locale: ru

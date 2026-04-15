@@ -1,5 +1,9 @@
 ---
 title: "DEATH NOTE"
+aka:
+  - "Death Note"
+  - "Тетрадь смерти"
+  - "Зошит смерті"
 category: anime
 score: 5
 locale: ru

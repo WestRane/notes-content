@@ -1,5 +1,9 @@
 ---
 title: "Yuru Camp△"
+aka:
+  - "Laid-Back Camp"
+  - "Лагерь на свежем воздухе"
+  - "Дівчачий табір△"
 category: anime
 score: 10
 locale: ru

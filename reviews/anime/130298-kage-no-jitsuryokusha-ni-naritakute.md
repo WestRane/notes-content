@@ -1,5 +1,9 @@
 ---
 title: "Kage no Jitsuryokusha ni Naritakute!"
+aka:
+  - "The Eminence in Shadow"
+  - "Восхождение в тени!"
+  - "Сходження в тіні!"
 category: anime
 score: 4
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kyokou Suiri Season 2"
+aka:
+  - "In/Spectre 2"
+  - "Ложные выводы 2"
+  - "Хибні міркування - 2 сезон"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Shingeki no Kyojin: The Final Season Part 2"
+aka:
+  - "Attack on Titan Final Season Part 2"
+  - "Атака титанов: Финал. Часть 2"
+  - "Атака титанів: Фінальний сезон - 2 частина"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Usagi Drop"
+aka:
+  - "Bunny Drop"
+  - "Брошенный кролик"
+  - "Покинуте кроленя"
 category: anime
 score: 6
 locale: ru

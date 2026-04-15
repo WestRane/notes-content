@@ -1,5 +1,9 @@
 ---
 title: "Kusuriya no Hitorigoto 2nd Season"
+aka:
+  - "The Apothecary Diaries Season 2"
+  - "Монолог фармацевта 2"
+  - "Монолог травниці - 2 сезон"
 category: anime
 score: 8
 locale: ru

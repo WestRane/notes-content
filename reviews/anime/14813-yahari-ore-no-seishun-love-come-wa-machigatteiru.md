@@ -1,5 +1,9 @@
 ---
 title: "Yahari Ore no Seishun Love Come wa Machigatteiru."
+aka:
+  - "My Teen Romantic Comedy SNAFU"
+  - "Как и ожидалось, моя школьная романтическая жизнь не удалась"
+  - "Моя романтична комедія не зовсім те, на що я очікував"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "serial experiments lain"
+aka:
+  - "Serial Experiments Lain"
+  - "Эксперименты Лэйн"
+  - "Експерименти Лейн"
 category: anime
 score: 4
 locale: ru

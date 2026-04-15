@@ -1,5 +1,9 @@
 ---
 title: "Chainsaw Man"
+aka:
+  - "Chainsaw Man"
+  - "Человек-бензопила"
+  - "Людина-бензопила"
 category: anime
 score: 7
 locale: ru

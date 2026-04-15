@@ -1,5 +1,9 @@
 ---
 title: "Enen no Shouboutai"
+aka:
+  - "Fire Force"
+  - "Пламенная бригада пожарных"
+  - "Полум’яні вогнеборці"
 category: anime
 score: 3
 locale: ru

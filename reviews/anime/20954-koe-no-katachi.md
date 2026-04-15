@@ -1,5 +1,9 @@
 ---
 title: "Koe no Katachi"
+aka:
+  - "A Silent Voice"
+  - "Форма голоса"
+  - "Форма голосу"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
+aka:
+  - "Violet Evergarden: Special"
+  - "Вайолет Эвергарден: День, когда ты поймёшь, что я люблю тебя, обязательно наступит"
+  - "Вайолет Еверґарден: Упевнений, що колись ти зрозумієш значення слів «Я кохаю тебе»"
 category: anime
 score: 8
 locale: ru

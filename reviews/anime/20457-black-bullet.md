@@ -1,5 +1,9 @@
 ---
 title: "Black Bullet"
+aka:
+  - "Black Bullet"
+  - "Чёрная пуля"
+  - "Чорна куля"
 category: anime
 score: 7
 locale: ru

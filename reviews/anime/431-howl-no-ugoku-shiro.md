@@ -1,5 +1,9 @@
 ---
 title: "Howl no Ugoku Shiro"
+aka:
+  - "Howl‘s Moving Castle"
+  - "Ходячий замок"
+  - "Мандрівний замок"
 category: anime
 score: 3
 locale: ru

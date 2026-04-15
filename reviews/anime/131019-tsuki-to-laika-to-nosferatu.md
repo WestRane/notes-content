@@ -1,5 +1,9 @@
 ---
 title: "Tsuki to Laika to Nosferatu"
+aka:
+  - "Irina: The Vampire Cosmonaut"
+  - "Луна, Лайка и Носферату"
+  - "Місяць, Лайка та Носферату"
 category: anime
 score: 7
 locale: ru

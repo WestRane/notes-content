@@ -1,5 +1,9 @@
 ---
 title: "Gaikotsu Shotenin Honda-san"
+aka:
+  - "Skull-face Bookseller Honda-san"
+  - "Книжник-скелет Хонда"
+  - "Черепоголовий продавець книг Хонда"
 category: anime
 score: 7
 locale: ru

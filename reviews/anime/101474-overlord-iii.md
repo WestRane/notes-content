@@ -1,5 +1,9 @@
 ---
 title: "Overlord III"
+aka:
+  - "Overlord III"
+  - "Повелитель 3"
+  - "Повелитель - 3 сезон"
 category: anime
 score: 8
 locale: ru

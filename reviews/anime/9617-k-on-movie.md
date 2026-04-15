@@ -1,5 +1,9 @@
 ---
 title: "K-ON! Movie"
+aka:
+  - "K-ON!: The Movie"
+  - "Кэйон в кино!"
+  - "Кей-Он! Фільм"
 category: anime
 score: 8
 locale: ru

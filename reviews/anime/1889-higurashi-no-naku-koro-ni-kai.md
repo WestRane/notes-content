@@ -1,5 +1,9 @@
 ---
 title: "Higurashi no Naku Koro ni Kai"
+aka:
+  - "When They Cry Kai"
+  - "Когда плачут цикады: Разгадки"
+  - "У час, коли плачуть цикади - 2 сезон"
 category: anime
 score: 7
 locale: ru

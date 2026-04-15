@@ -1,5 +1,8 @@
 ---
 title: "Dagashi Kashi 2"
+aka:
+  - "Магазинчик сладостей 2"
+  - "Крамничка солодощів - 2 сезон"
 category: anime
 score: 7
 locale: ru

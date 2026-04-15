@@ -1,5 +1,9 @@
 ---
 title: "Jigokuraku"
+aka:
+  - "Hell’s Paradise"
+  - "Адский рай"
+  - "Пекельний рай"
 category: anime
 score: 5
 locale: ru

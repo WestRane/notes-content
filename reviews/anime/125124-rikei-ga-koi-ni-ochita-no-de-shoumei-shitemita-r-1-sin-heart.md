@@ -1,5 +1,9 @@
 ---
 title: "Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ (Heart)"
+aka:
+  - "Science Fell in Love, So I Tried to Prove It r=1-sinθ"
+  - "Влюблённые учёные и научное доказательство любви 2"
+  - "Наука закохалася і я доведу це! [r=1-sinθ]"
 category: anime
 score: 8
 locale: ru

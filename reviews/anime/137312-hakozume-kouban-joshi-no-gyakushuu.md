@@ -1,5 +1,9 @@
 ---
 title: "Hakozume: Kouban Joshi no Gyakushuu"
+aka:
+  - "Police in a Pod"
+  - "Контратака женщины-полицейского"
+  - "Контратака поліціянтки"
 category: anime
 score: 7
 locale: ru

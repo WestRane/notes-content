@@ -1,5 +1,9 @@
 ---
 title: "Giji Harem"
+aka:
+  - "Pseudo Harem"
+  - "Псевдогарем"
+  - "Псевдогарем"
 category: anime
 score: 7
 locale: en

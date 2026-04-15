@@ -1,5 +1,9 @@
 ---
 title: "Dr. STONE"
+aka:
+  - "Dr. STONE"
+  - "Доктор Стоун"
+  - "Доктор Стоун"
 category: anime
 score: 7
 locale: ru

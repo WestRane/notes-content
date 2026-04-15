@@ -1,5 +1,9 @@
 ---
 title: "Mahoutsukai Reimeiki"
+aka:
+  - "The Dawn of the Witch"
+  - "Восхождение чародея"
+  - "Світанок Відьми"
 category: anime
 score: 5
 locale: ru

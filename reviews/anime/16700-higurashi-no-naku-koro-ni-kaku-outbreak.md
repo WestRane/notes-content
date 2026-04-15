@@ -1,5 +1,8 @@
 ---
 title: "Higurashi no Naku Koro ni Kaku: Outbreak"
+aka:
+  - "Когда плачут цикады: Вспышка"
+  - "У час, коли плачуть цикади: Епідемія"
 category: anime
 score: 3
 locale: ru

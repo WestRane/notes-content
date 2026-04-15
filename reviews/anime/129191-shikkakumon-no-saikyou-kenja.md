@@ -1,5 +1,9 @@
 ---
 title: "Shikkakumon no Saikyou Kenja"
+aka:
+  - "The Strongest Sage with the Weakest Crest"
+  - "Сильнейший мудрец низшей эмблемы"
+  - "Наймогутніший мудрець найслабшого ордену"
 category: anime
 score: 4
 locale: ru

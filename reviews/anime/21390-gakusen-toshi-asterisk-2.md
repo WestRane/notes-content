@@ -1,5 +1,9 @@
 ---
 title: "Gakusen Toshi Asterisk 2"
+aka:
+  - "The Asterisk War 2"
+  - "Боевая академия города Астериск 2"
+  - "Астеріск — місто шкільних воєн - 2 сезон"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Make Heroine ga Oosugiru!"
+aka:
+  - "Makeine: Too Many Losing Heroines!"
+  - "Слишком много проигравших героинь!"
+  - "Забагато героїнь, що програли!"
 category: anime
 score: 4
 locale: ru

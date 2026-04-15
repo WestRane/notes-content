@@ -1,5 +1,9 @@
 ---
 title: "Tate no Yuusha no Nariagari"
+aka:
+  - "The Rising of the Shield Hero"
+  - "Восхождение героя щита"
+  - "Сходження Героя щита"
 category: anime
 score: 8
 locale: ru

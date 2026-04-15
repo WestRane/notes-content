@@ -1,5 +1,9 @@
 ---
 title: "Princess Connect! Re:Dive"
+aka:
+  - "Princess Connect! Re:Dive"
+  - "Связь принцесс: Повторное погружение"
+  - "Зв'язок принцес: Повторне занурення"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kishibe Rohan wa Ugokanai"
+aka:
+  - "Thus Spoke Rohan Kishibe"
+  - "Так говорил Рохан Кишибэ"
+  - "Так говорив Кішібе Рохан"
 category: anime
 score: 5
 locale: ru

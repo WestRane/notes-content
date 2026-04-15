@@ -1,5 +1,9 @@
 ---
 title: "Kuma Kuma Kuma Bear"
+aka:
+  - "Kuma Kuma Kuma Bear"
+  - "Ми-ми-ми-мишка"
+  - "Ведмедики-кумедики"
 category: anime
 score: 8
 locale: ru

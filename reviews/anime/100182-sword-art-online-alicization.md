@@ -1,5 +1,9 @@
 ---
 title: "Sword Art Online: Alicization"
+aka:
+  - "Sword Art Online: Alicization"
+  - "Мастера Меча Онлайн: Алисизация"
+  - "Мистецтво Меча Онлайн: Алісізація"
 category: anime
 score: 7
 locale: ru

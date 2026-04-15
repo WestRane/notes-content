@@ -1,5 +1,9 @@
 ---
 title: "Aharen-san wa Hakarenai"
+aka:
+  - "Aharen-san wa Hakarenai"
+  - "Непостижимая Ахарэн"
+  - "Незбагненна Ахарен"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Violet Evergarden"
+aka:
+  - "Violet Evergarden"
+  - "Вайолет Эвергарден"
+  - "Вайолет Еверґарден"
 category: anime
 score: 8
 locale: ru

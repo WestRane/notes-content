@@ -1,5 +1,9 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 2"
+aka:
+  - "The Rising of the Shield Hero Season 2"
+  - "Восхождение героя щита 2"
+  - "Сходження Героя щита - 2 сезон"
 category: anime
 score: 6
 locale: ru

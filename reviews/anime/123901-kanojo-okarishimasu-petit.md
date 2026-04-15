@@ -1,5 +1,7 @@
 ---
 title: "Kanojo, Okarishimasu Petit"
+aka:
+  - "Девушка на час: Тиби"
 category: anime
 score: 2
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Hataraku Saibou"
+aka:
+  - "Cells at Work!"
+  - "Клетки за работой"
+  - "Робота клітин"
 category: anime
 score: 8
 locale: ru

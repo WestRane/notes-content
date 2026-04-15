@@ -1,5 +1,9 @@
 ---
 title: "JoJo no Kimyou na Bouken: Diamond wa Kudakenai"
+aka:
+  - "JoJo's Bizarre Adventure: Diamond is Unbreakable"
+  - "Невероятное приключение ДжоДжо: Несокрушимый алмаз"
+  - "Химерні пригоди ДжоДжо: Незламний діамант"
 category: anime
 score: 8
 locale: ru

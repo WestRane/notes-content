@@ -1,5 +1,9 @@
 ---
 title: "Paripi Koumei"
+aka:
+  - "Ya Boy Kongming!"
+  - "Тусовщик Кунмин"
+  - "Музичний стратег Конмін"
 category: anime
 score: 8
 locale: ru

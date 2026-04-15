@@ -1,5 +1,9 @@
 ---
 title: "Kobayashi-san Chi no ○○ Dragon"
+aka:
+  - "Miss Kobayashi's Dragon Something"
+  - "Дракон-горничная госпожи Кобаяси: Спецвыпуски"
+  - "Дракон в домі Кобаяші-сан"
 category: anime
 score: 8
 locale: ru

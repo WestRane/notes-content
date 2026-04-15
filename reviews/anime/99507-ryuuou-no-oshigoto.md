@@ -1,5 +1,9 @@
 ---
 title: "Ryuuou no Oshigoto!"
+aka:
+  - "The Ryuo's Work is Never Done!"
+  - "О том, кем работает король драконов"
+  - "Роботи для Рюо Буде Вдосталь!"
 category: anime
 score: 6
 locale: ru

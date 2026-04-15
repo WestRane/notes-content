@@ -1,5 +1,9 @@
 ---
 title: "Ookami to Koushinryou II"
+aka:
+  - "Spice and Wolf II"
+  - "Волчица и пряности II"
+  - "Вовчиця і прянощі - 2 сезон"
 category: anime
 score: 8
 locale: ru

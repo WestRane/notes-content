@@ -1,5 +1,9 @@
 ---
 title: "Hibike! Euphonium"
+aka:
+  - "Sound! Euphonium"
+  - "Звучи, эуфониум!"
+  - "Звучи, Еуфоніуме!"
 category: anime
 score: 7
 locale: ru

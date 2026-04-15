@@ -1,5 +1,9 @@
 ---
 title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
+aka:
+  - "Reborn to Master the Blade: From Hero-King to Extraordinary Squire"
+  - "Перевоплотившийся король-герой, ставший самой сильной ученицей рыцаря"
+  - "Переродження в майстриню меча з короля героя♀"
 category: anime
 score: 6
 locale: ru

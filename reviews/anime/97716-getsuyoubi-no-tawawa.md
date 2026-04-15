@@ -1,5 +1,9 @@
 ---
 title: "Getsuyoubi no Tawawa"
+aka:
+  - "Tawawa on Monday"
+  - "Загруженный понедельник"
+  - "Зустрінемось у понеділок"
 category: anime
 score: 6
 locale: ru

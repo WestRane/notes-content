@@ -1,5 +1,8 @@
 ---
 title: "Kakegurui Picture Drama"
+aka:
+  - "Безумный азарт: Спецвыпуски"
+  - "Шалений азарт: Постановка в картинках"
 category: anime
 score: 6
 locale: ru

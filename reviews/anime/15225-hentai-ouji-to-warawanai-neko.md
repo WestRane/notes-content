@@ -1,5 +1,9 @@
 ---
 title: "Hentai Ouji to Warawanai Neko."
+aka:
+  - "Hentai Prince & the Stony Cat"
+  - "Нахальный принц и кошка-несмеяна"
+  - "Принц-збоченець і мовчазна кішка"
 category: anime
 score: 6
 locale: ru

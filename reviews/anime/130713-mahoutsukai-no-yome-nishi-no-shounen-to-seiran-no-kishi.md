@@ -1,5 +1,9 @@
 ---
 title: "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi"
+aka:
+  - "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm"
+  - "Невеста чародея: Мальчик с Запада и рыцарь горной дымки"
+  - "Наречена чаклуна: Хлопець із Заходу і Лицар блакитного шторму"
 category: anime
 score: 6
 locale: ru

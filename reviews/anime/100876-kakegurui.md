@@ -1,5 +1,9 @@
 ---
 title: "Kakegurui ××"
+aka:
+  - "Kakegurui xx"
+  - "Безумный азарт 2"
+  - "Шалений азарт - 2 сезон"
 category: anime
 score: 7
 locale: ru

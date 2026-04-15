@@ -1,5 +1,8 @@
 ---
 title: "Yesterday wo Utatte Extras"
+aka:
+  - "Спой для меня «Вчера»: Спецвыпуски"
+  - "Заспівай мені «Yesterday» ONA"
 category: anime
 score: 5
 locale: ru

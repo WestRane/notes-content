@@ -1,5 +1,9 @@
 ---
 title: "Prison School"
+aka:
+  - "Prison School"
+  - "Школа-тюрьма"
+  - "Школа-в'язниця"
 category: anime
 score: 8
 locale: ru

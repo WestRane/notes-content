@@ -1,5 +1,9 @@
 ---
 title: "Sousou no Frieren"
+aka:
+  - "Frieren: Beyond Journey’s End"
+  - "Провожающая в последний путь Фрирен"
+  - "Проводжальниця Фрірен"
 category: anime
 score: 9
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Re:Zero kara Hajimeru Isekai Seikatsu OVAs"
+aka:
+  - "Re:ZERO -Starting Life in Another World- OVAs"
+  - "Re:Zero. Жизнь с нуля в альтернативном мире: Снежные воспоминания"
+  - "Переродження: Життя з нуля в іншому світі - Сніжні спогади"
 category: anime
 score: 7
 locale: ru

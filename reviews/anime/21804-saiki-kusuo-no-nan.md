@@ -1,5 +1,9 @@
 ---
 title: "Saiki Kusuo no Ψ-nan"
+aka:
+  - "The Disastrous Life of Saiki K."
+  - "Ох уж этот экстрасенс Сайки Кусуо!"
+  - "Злощасне життя псионіка Сайкі"
 category: anime
 score: 8
 locale: ru

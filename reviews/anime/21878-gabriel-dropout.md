@@ -1,5 +1,9 @@
 ---
 title: "Gabriel Dropout"
+aka:
+  - "Gabriel DropOut"
+  - "Отступница Габриэль"
+  - "Ґабріель кидає школу"
 category: anime
 score: 7
 locale: ru

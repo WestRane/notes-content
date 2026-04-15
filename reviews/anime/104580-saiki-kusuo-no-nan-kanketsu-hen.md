@@ -1,5 +1,9 @@
 ---
 title: "Saiki Kusuo no Ψ-nan: Kanketsu-hen"
+aka:
+  - "The Disastrous Life of Saiki K. Season 3"
+  - "Ох уж этот экстрасенс Сайки Кусуо! Финал"
+  - "Злощасне життя псионіка Сайкі - Завершення"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Fate/Zero 2nd Season"
+aka:
+  - "Fate/Zero Season 2"
+  - "Судьба/Начало 2"
+  - "Доля/Початок - 2 сезон"
 category: anime
 score: 8
 locale: ru

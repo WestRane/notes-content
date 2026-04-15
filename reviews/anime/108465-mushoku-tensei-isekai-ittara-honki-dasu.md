@@ -1,5 +1,9 @@
 ---
 title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
+aka:
+  - "Mushoku Tensei: Jobless Reincarnation"
+  - "Реинкарнация безработного: История о приключениях в другом мире"
+  - "Реінкарнація безробітного: В інший світ на повному серйозі"
 category: anime
 score: 8
 locale: ru

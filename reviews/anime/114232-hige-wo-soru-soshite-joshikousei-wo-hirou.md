@@ -1,5 +1,9 @@
 ---
 title: "Hige wo Soru. Soshite Joshikousei wo Hirou."
+aka:
+  - "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
+  - "Я побрился. Затем привёл домой старшеклассницу"
+  - "Я поголився. А потім привів додому старшокласницю"
 category: anime
 score: 4
 locale: ru

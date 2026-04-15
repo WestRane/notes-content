@@ -1,5 +1,9 @@
 ---
 title: "Dungeon Meshi"
+aka:
+  - "Delicious in Dungeon"
+  - "Подземелье вкусностей"
+  - "Підземелля смакоти"
 category: anime
 score: 8
 locale: ru

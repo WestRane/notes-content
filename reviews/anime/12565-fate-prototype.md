@@ -1,5 +1,8 @@
 ---
 title: "Fate/Prototype"
+aka:
+  - "Судьба/Прототип"
+  - "Доля/Прототип"
 category: anime
 score: 1
 locale: ru

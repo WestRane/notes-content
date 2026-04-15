@@ -1,5 +1,9 @@
 ---
 title: "Shin Seiki Evangelion"
+aka:
+  - "Neon Genesis Evangelion"
+  - "Евангелион нового поколения"
+  - "Нова ера – Євангеліон"
 category: anime
 score: 1
 locale: ru

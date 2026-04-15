@@ -1,5 +1,9 @@
 ---
 title: "Arafou Otoko no Isekai Tsuuhan Seikatsu"
+aka:
+  - "The Daily Life of a Middle-Aged Online Shopper in Another World"
+  - "Жизнь сорокалетнего мужчины в другом мире"
+  - "Життя 40-річного чоловіка в іншому світі з онлайн-шопінґом"
 category: anime
 score: 4
 locale: ru

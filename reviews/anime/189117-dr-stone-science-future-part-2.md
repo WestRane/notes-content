@@ -1,5 +1,9 @@
 ---
 title: "Dr. STONE: SCIENCE FUTURE Part 2"
+aka:
+  - "Dr. STONE SCIENCE FUTURE Cour 2"
+  - "Доктор Стоун: Научное будущее. Часть 2"
+  - "Доктор Стоун: Наука майбутнього - 2 частина"
 category: anime
 score: 8
 locale: ru

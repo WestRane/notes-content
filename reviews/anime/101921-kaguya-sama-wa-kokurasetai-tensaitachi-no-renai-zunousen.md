@@ -1,5 +1,9 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
+aka:
+  - "Kaguya-sama: Love is War"
+  - "Госпожа Кагуя: в любви как на войне"
+  - "Каґуя хоче, щоб їй зізналися: Війна любові та розуму геніїв"
 category: anime
 score: 9
 locale: ru

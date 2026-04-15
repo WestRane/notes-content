@@ -1,5 +1,9 @@
 ---
 title: "Tanaka-kun wa Itsumo Kedaruge"
+aka:
+  - "Tanaka-kun is Always Listless"
+  - "Всегда вялый Танака-кун"
+  - "Безнадійний ледацюга Танака"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kono Subarashii Sekai ni Shukufuku wo! 2"
+aka:
+  - "KONOSUBA -God's blessing on this wonderful world! 2"
+  - "Этот замечательный мир! 2"
+  - "Цей прекрасний світ, благословенний Богом! - 2 сезон"
 category: anime
 score: 8
 locale: ru

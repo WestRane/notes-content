@@ -1,5 +1,9 @@
 ---
 title: "One Punch Man 2"
+aka:
+  - "One-Punch Man Season 2"
+  - "Ванпанчмен 2"
+  - "Ванпанчмен - 2 сезон"
 category: anime
 score: 6
 locale: ru

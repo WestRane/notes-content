@@ -1,5 +1,9 @@
 ---
 title: "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai"
+aka:
+  - "Rascal Does Not Dream of a Knapsack Kid"
+  - "Этот глупый свин не понимает мечту девушки с рюкзаком"
+  - "Негідники не мріють про шляхетних дівчат з рюкзаком"
 category: anime
 score: 7
 locale: ru

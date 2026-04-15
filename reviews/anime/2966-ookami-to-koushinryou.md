@@ -1,5 +1,9 @@
 ---
 title: "Ookami to Koushinryou"
+aka:
+  - "Spice and Wolf"
+  - "Волчица и пряности"
+  - "Вовчиця і прянощі"
 category: anime
 score: 9
 locale: ru

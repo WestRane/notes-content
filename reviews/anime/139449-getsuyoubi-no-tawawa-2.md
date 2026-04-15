@@ -1,5 +1,9 @@
 ---
 title: "Getsuyoubi no Tawawa 2"
+aka:
+  - "Tawawa on Monday 2"
+  - "Загруженный понедельник 2"
+  - "Зустрінемось у понеділок - 2 сезон"
 category: anime
 score: 6
 locale: ru

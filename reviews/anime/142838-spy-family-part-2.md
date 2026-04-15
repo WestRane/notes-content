@@ -1,5 +1,9 @@
 ---
 title: "SPY×FAMILY Part 2"
+aka:
+  - "SPY x FAMILY Cour 2"
+  - "Семья шпиона. Часть 2"
+  - "Сім'я шпигуна - 1 сезон, 2 частина"
 category: anime
 score: 8
 locale: ru

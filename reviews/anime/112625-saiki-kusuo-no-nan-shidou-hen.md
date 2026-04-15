@@ -1,5 +1,9 @@
 ---
 title: "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen"
+aka:
+  - "The Disastrous Life of Saiki K.: Reawakened"
+  - "Ох уж этот экстрасенс Сайки Кусуо! Начало"
+  - "Злощасне життя псионіка Сайкі: Пробудження"
 category: anime
 score: 8
 locale: ru

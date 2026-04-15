@@ -1,5 +1,9 @@
 ---
 title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+aka:
+  - "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+  - "Не люблю боль, поэтому собираюсь вложить всё в защиту"
+  - "Мені не подобається біль, тому качатиму тільки захист"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Zankyou no Terror"
+aka:
+  - "Terror in Resonance"
+  - "Эхо террора"
+  - "Відлуння терору"
 category: anime
 score: 7
 locale: ru

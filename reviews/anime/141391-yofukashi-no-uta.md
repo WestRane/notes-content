@@ -1,5 +1,9 @@
 ---
 title: "Yofukashi no Uta"
+aka:
+  - "Call of the Night"
+  - "Песнь ночных сов"
+  - "Поклик ночі"
 category: anime
 score: 5
 locale: ru

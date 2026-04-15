@@ -1,5 +1,9 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+aka:
+  - "Classroom of the Elite Season 2"
+  - "Добро пожаловать в класс превосходства 2"
+  - "Ласкаво просимо до класу еліти - 2 сезон"
 category: anime
 score: 7
 locale: ru

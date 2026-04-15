@@ -1,5 +1,9 @@
 ---
 title: "Kenja no Mago"
+aka:
+  - "Wise Man’s Grandchild"
+  - "Внук мудреца"
+  - "Онук мудреця"
 category: anime
 score: 3
 locale: ru

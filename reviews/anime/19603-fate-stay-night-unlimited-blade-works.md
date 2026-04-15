@@ -1,5 +1,9 @@
 ---
 title: "Fate/stay night: Unlimited Blade Works"
+aka:
+  - "Fate/stay night: Unlimited Blade Works"
+  - "Судьба/Ночь схватки: Бесконечный мир клинков"
+  - "Доля/Ніч битви: Світ нескінченних клинків"
 category: anime
 score: 8
 locale: ru

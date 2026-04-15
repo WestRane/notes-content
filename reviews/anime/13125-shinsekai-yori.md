@@ -1,5 +1,9 @@
 ---
 title: "Shinsekai yori"
+aka:
+  - "From the New World"
+  - "Из нового света"
+  - "З нового світу"
 category: anime
 score: 4
 locale: ru

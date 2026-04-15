@@ -1,5 +1,9 @@
 ---
 title: "Houkago Teibou Nisshi"
+aka:
+  - "Diary of Our Days at the Breakwater"
+  - "Рыбалка для школьниц после занятий"
+  - "Будні на узбережжі"
 category: anime
 score: 6
 locale: ru

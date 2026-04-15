@@ -1,5 +1,9 @@
 ---
 title: "Bocchi the Rock!"
+aka:
+  - "BOCCHI THE ROCK!"
+  - "Одинокий рокер!"
+  - "Самітниця-рокерка!"
 category: anime
 score: 7
 locale: ru

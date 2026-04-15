@@ -1,5 +1,8 @@
 ---
 title: "Hori-san to Miyamura-kun"
+aka:
+  - "Хори-сан и Миямура-кун"
+  - "Хорі та Міямура"
 category: anime
 score: 7
 locale: ru

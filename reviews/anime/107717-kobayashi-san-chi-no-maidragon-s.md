@@ -1,5 +1,9 @@
 ---
 title: "Kobayashi-san Chi no Maidragon S"
+aka:
+  - "Miss Kobayashi's Dragon Maid S"
+  - "Дракон-горничная госпожи Кобаяси 2"
+  - "Драконопокоївка в домі Кобаяші-сан S"
 category: anime
 score: 8
 locale: ru

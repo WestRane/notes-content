@@ -1,5 +1,9 @@
 ---
 title: "Koroshi Ai"
+aka:
+  - "Love of Kill"
+  - "Убивающая любовь"
+  - "Убивче кохання"
 category: anime
 score: 3
 locale: ru

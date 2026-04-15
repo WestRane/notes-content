@@ -1,5 +1,9 @@
 ---
 title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+aka:
+  - "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
+  - "Магическая революция перерождённой принцессы и гениальной юной леди"
+  - "Магічна революція переродженої принцеси та геніальної панянки"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Gamers!"
+aka:
+  - "GAMERS!"
+  - "Геймеры!"
+  - "Геймери!"
 category: anime
 score: 4
 locale: ru

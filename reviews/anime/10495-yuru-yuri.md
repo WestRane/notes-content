@@ -1,5 +1,9 @@
 ---
 title: "Yuru Yuri"
+aka:
+  - "YuruYuri"
+  - "Лилии на ветру"
+  - "Закохані лілії"
 category: anime
 score: 5
 locale: ru

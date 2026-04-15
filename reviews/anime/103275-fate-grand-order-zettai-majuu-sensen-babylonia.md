@@ -1,5 +1,9 @@
 ---
 title: "Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+aka:
+  - "Fate/Grand Order Absolute Demonic Front: Babylonia"
+  - "Судьба/Великий приказ: Вавилония"
+  - "Доля/Великий наказ: Абсолютний демонічний фронт Вавилону"
 category: anime
 score: 7
 locale: ru

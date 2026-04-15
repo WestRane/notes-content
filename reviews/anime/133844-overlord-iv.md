@@ -1,5 +1,9 @@
 ---
 title: "Overlord IV"
+aka:
+  - "Overlord IV"
+  - "Повелитель 4"
+  - "Повелитель - 4 сезон"
 category: anime
 score: 8
 locale: ru

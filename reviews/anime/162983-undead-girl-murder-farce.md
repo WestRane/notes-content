@@ -1,5 +1,9 @@
 ---
 title: "Undead Girl Murder Farce"
+aka:
+  - "Undead Murder Farce"
+  - "Фарс из убийства девушки-нежити"
+  - "Фарс з убивством упириці"
 category: anime
 score: 4
 locale: ru

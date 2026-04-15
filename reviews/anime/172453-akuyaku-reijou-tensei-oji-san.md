@@ -1,5 +1,9 @@
 ---
 title: "Akuyaku Reijou Tensei Oji-san"
+aka:
+  - "From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+  - "Перерождение мужчины средних лет в дочь дворянина"
+  - "Чоловік середнього віку, який перевтілився у лиходійку"
 category: anime
 score: 7
 locale: ru

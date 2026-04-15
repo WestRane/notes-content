@@ -1,5 +1,9 @@
 ---
 title: "Danshi Koukousei no Nichijou"
+aka:
+  - "Daily Lives of High School Boys"
+  - "Повседневная жизнь старшеклассников"
+  - "Повсякденне життя старшокласників"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Dandadan"
+aka:
+  - "DAN DA DAN"
+  - "Дандадан"
+  - "Дандадан"
 category: anime
 score: 3
 locale: ru

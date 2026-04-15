@@ -1,5 +1,9 @@
 ---
 title: "Saiki Kusuo no Ψ-nan 2"
+aka:
+  - "The Disastrous Life of Saiki K. Season 2"
+  - "Ох уж этот экстрасенс Сайки Кусуо! 2"
+  - "Злощасне життя псионіка Сайкі - 2 сезон"
 category: anime
 score: 8
 locale: ru

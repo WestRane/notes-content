@@ -1,5 +1,9 @@
 ---
 title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan"
+aka:
+  - "My Teen Romantic Comedy SNAFU Climax!"
+  - "Как и ожидалось, моя школьная романтическая жизнь не удалась 3"
+  - "Моя романтична комедія не зовсім те, на що я очікував - 3 сезон"
 category: anime
 score: 4
 locale: ru

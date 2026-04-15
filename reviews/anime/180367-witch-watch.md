@@ -1,5 +1,9 @@
 ---
 title: "Witch Watch"
+aka:
+  - "WITCH WATCH"
+  - "Ведьмнадзор"
+  - "Відьмоварта"
 category: anime
 score: 5
 locale: ru

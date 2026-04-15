@@ -1,5 +1,9 @@
 ---
 title: "Domestic na Kanojo"
+aka:
+  - "Domestic Girlfriend"
+  - "Домашняя подружка"
+  - "Домашня дівчина"
 category: anime
 score: 3
 locale: ru

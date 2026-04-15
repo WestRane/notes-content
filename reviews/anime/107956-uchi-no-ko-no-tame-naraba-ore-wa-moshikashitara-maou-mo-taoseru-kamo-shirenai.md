@@ -1,5 +1,9 @@
 ---
 title: "Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai."
+aka:
+  - "If It's for My Daughter, I'd Even Defeat a Demon Lord"
+  - "Ради своей дочери я смогу победить даже короля демонов"
+  - "Заради моєї донечки я навіть Володаря Демонів здолаю"
 category: anime
 score: 3
 locale: ru

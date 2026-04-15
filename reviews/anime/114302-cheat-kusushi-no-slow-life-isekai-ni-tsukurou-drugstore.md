@@ -1,5 +1,9 @@
 ---
 title: "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+aka:
+  - "Drug Store in Another World - The Slow Life of a Cheat Pharmacist"
+  - "Размеренная жизнь чит-фармацевта: Создание аптеки в альтернативном мире"
+  - "Аптека в іншому світі: Неквапливе життя аптекаря"
 category: anime
 score: 6
 locale: ru

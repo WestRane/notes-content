@@ -1,5 +1,9 @@
 ---
 title: "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow"
+aka:
+  - "Solo Leveling Season 2 -Arise from the Shadow-"
+  - "Поднятие уровня в одиночку 2: Восстаньте из тени"
+  - "Тільки я візьму новий рівень: Вихід із тіні"
 category: anime
 score: 7
 locale: ru

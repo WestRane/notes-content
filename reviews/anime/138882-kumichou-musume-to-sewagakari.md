@@ -1,5 +1,9 @@
 ---
 title: "Kumichou Musume to Sewagakari"
+aka:
+  - "The Yakuza's Guide to Babysitting"
+  - "Дочка босса и её нянька"
+  - "Нянька-якудза для доньки боса"
 category: anime
 score: 6
 locale: ru

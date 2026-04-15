@@ -1,5 +1,9 @@
 ---
 title: "Tanaka-kun wa Kyou mo Kedaruge"
+aka:
+  - "Tanaka-kun wa Kyou mo Kedaruge"
+  - "Сегодня такой же вялый Танака-кун"
+  - "Безнадійний ледацюга Танака ONA"
 category: anime
 score: 7
 locale: ru

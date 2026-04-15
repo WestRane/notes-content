@@ -1,5 +1,9 @@
 ---
 title: "One Punch Man"
+aka:
+  - "One-Punch Man"
+  - "Ванпанчмен"
+  - "Ванпанчмен"
 category: anime
 score: 7
 locale: ru

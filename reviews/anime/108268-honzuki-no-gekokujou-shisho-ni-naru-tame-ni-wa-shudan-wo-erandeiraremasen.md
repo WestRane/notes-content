@@ -1,5 +1,9 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+aka:
+  - "Ascendance of a Bookworm"
+  - "Власть книжного червя"
+  - "Сходження буквоїжки: Я зроблю все, щоби стати бібліотекаркою"
 category: anime
 score: 8
 locale: ru

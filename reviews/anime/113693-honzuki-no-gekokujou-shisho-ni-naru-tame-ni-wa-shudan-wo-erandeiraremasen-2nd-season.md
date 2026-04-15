@@ -1,5 +1,9 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
+aka:
+  - "Ascendance of a Bookworm Part 2"
+  - "Власть книжного червя 2"
+  - "Сходження буквоїжки: Я зроблю все, щоби стати бібліотекаркою - 2 сезон"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,8 @@
 ---
 title: "Higurashi no Naku Koro ni Kira"
+aka:
+  - "Когда плачут цикады: Блеск"
+  - "У час, коли плачуть цикади: Блиск"
 category: anime
 score: 7
 locale: ru

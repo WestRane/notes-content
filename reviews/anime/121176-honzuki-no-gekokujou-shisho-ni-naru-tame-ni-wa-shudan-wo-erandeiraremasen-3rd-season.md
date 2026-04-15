@@ -1,5 +1,9 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
+aka:
+  - "Ascendance of a Bookworm Season 3"
+  - "Власть книжного червя 3"
+  - "Сходження буквоїжки: Я зроблю все, щоби стати бібліотекаркою - 3 сезон"
 category: anime
 score: 7
 locale: ru

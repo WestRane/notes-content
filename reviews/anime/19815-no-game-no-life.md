@@ -1,5 +1,9 @@
 ---
 title: "No Game No Life"
+aka:
+  - "No Game, No Life"
+  - "Нет игры — нет жизни"
+  - "Без гри нема життя"
 category: anime
 score: 6
 locale: ru

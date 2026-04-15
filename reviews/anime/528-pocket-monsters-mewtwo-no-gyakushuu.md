@@ -1,5 +1,9 @@
 ---
 title: "Pocket Monsters: Mewtwo no Gyakushuu"
+aka:
+  - "Pokémon: The First Movie"
+  - "Покемон: Мьюту наносит ответный удар"
+  - "Покемони: М'юту завдає удар у відповідь"
 category: anime
 score: 5
 locale: ru

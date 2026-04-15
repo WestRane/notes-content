@@ -1,5 +1,9 @@
 ---
 title: "Steins;Gate: Oukoubakko no Poriomania"
+aka:
+  - "Steins;Gate: Egoistic Poriomania"
+  - "Врата Штейна: Эгоистичная пориомания"
+  - "Штайнова;Брама: Егоїстична поріоманія"
 category: anime
 score: 8
 locale: ru

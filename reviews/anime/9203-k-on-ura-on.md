@@ -1,5 +1,9 @@
 ---
 title: "K-ON!!: Ura-On!!"
+aka:
+  - "K-ON! Season 2 Shorts"
+  - "Кэйон!! Ураон"
+  - "Кей-Он!!: Ура-Он!!"
 category: anime
 score: 4
 locale: ru

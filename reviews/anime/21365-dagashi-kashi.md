@@ -1,5 +1,8 @@
 ---
 title: "Dagashi Kashi"
+aka:
+  - "Магазинчик сладостей"
+  - "Крамничка солодощів"
 category: anime
 score: 7
 locale: ru

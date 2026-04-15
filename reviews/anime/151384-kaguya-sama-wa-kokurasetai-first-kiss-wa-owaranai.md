@@ -1,5 +1,9 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+aka:
+  - "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
+  - "Госпожа Кагуя: в любви как на войне — Первый поцелуй никогда не заканчивается"
+  - "Каґуя хоче, щоб їй зізналися: Перший поцілунок ніколи не закінчується"
 category: anime
 score: 8
 locale: ru

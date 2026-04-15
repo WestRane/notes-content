@@ -1,5 +1,9 @@
 ---
 title: "Kyuuketsuki Sugu Shinu 2"
+aka:
+  - "The Vampire Dies in No Time Season 2"
+  - "Этот вампир постоянно умирает 2"
+  - "Вампір миттєвого вмирання - 2 сезон"
 category: anime
 score: 6
 locale: ru

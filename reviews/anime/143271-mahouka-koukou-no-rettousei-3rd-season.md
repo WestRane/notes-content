@@ -1,5 +1,9 @@
 ---
 title: "Mahouka Koukou no Rettousei 3rd Season"
+aka:
+  - "The Irregular at Magic High School Season 3"
+  - "Непутёвый ученик в школе магии 3"
+  - "Непутящий учень школи магії - 3 сезон"
 category: anime
 score: 7
 locale: ru

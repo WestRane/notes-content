@@ -1,5 +1,9 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari"
+aka:
+  - "Puella Magi Madoka Magica the Movie Part 1: Beginnings"
+  - "Девочка-волшебница Мадока★Волшебный фильм 1:  История начала"
+  - "Чарівниця Мадока★Маґіка Фільм 1: Початок"
 category: anime
 score: 7
 locale: ru

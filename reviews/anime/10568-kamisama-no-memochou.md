@@ -1,5 +1,9 @@
 ---
 title: "Kamisama no Memochou"
+aka:
+  - "Heaven's Memo Pad"
+  - "Записная книжка Бога"
+  - "Небесні записи"
 category: anime
 score: 5
 locale: ru

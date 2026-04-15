@@ -1,5 +1,9 @@
 ---
 title: "Girls und Panzer"
+aka:
+  - "Girls und Panzer"
+  - "Девушки и танки"
+  - "Дівчата і танки"
 category: anime
 score: 7
 locale: ru

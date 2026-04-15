@@ -1,5 +1,9 @@
 ---
 title: "Gakusen Toshi Asterisk"
+aka:
+  - "The Asterisk War"
+  - "Боевая академия города Астериск"
+  - "Астеріск — місто шкільних воєн"
 category: anime
 score: 4
 locale: ru

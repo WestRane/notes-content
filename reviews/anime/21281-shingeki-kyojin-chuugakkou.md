@@ -1,5 +1,9 @@
 ---
 title: "Shingeki! Kyojin Chuugakkou"
+aka:
+  - "Attack on Titan: Junior High"
+  - "Атака! Титаны средней школы"
+  - "Атака титанів: Середня школа"
 category: anime
 score: 7
 locale: ru

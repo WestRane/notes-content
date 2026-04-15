@@ -1,5 +1,9 @@
 ---
 title: "Handa-kun"
+aka:
+  - "Handa-kun"
+  - "Ханда-кун"
+  - "Ханда-кун"
 category: anime
 score: 6
 locale: ru

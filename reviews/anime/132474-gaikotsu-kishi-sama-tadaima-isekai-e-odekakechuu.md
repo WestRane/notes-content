@@ -1,5 +1,9 @@
 ---
 title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
+aka:
+  - "Skeleton Knight in Another World"
+  - "Рыцарь-скелет вступает в параллельный мир"
+  - "Лицар-скелет починає пригоди в новому світі"
 category: anime
 score: 4
 locale: ru

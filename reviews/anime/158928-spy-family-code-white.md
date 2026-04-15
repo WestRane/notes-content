@@ -1,5 +1,9 @@
 ---
 title: "SPY×FAMILY CODE: White"
+aka:
+  - "SPY x FAMILY CODE: White"
+  - "Семья шпиона — Код: Белый"
+  - "Сім'я шпигуна: Код «Білий»"
 category: anime
 score: 7
 locale: ru

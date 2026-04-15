@@ -1,5 +1,8 @@
 ---
 title: "Yuru Camp△ OVA"
+aka:
+  - "Лагерь на свежем воздухе: Спецвыпуски"
+  - "Дівчачий табір△ Спешли"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+aka:
+  - "Classroom of the Elite"
+  - "Добро пожаловать в класс превосходства"
+  - "Ласкаво просимо до класу еліти"
 category: anime
 score: 5
 locale: ru

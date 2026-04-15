@@ -1,5 +1,9 @@
 ---
 title: "Summer Time Render"
+aka:
+  - "Summer Time Rendering"
+  - "Летнее время"
+  - "Відгомін літньої пори"
 category: anime
 score: 4
 locale: ru

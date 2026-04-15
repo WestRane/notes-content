@@ -1,5 +1,9 @@
 ---
 title: "Gintama"
+aka:
+  - "Gintama"
+  - "Гинтама"
+  - "Ґінтама"
 category: anime
 score: 5
 locale: ru

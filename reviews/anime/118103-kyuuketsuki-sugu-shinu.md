@@ -1,5 +1,9 @@
 ---
 title: "Kyuuketsuki Sugu Shinu"
+aka:
+  - "The Vampire Dies in No Time"
+  - "Этот вампир постоянно умирает"
+  - "Вампір миттєвого вмирання"
 category: anime
 score: 7
 locale: ru

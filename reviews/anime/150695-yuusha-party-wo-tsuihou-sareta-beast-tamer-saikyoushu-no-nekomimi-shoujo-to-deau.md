@@ -1,5 +1,9 @@
 ---
 title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+aka:
+  - "Beast Tamer"
+  - "Укротитель зверей, изгнанный из команды героя, встретил девочку-кошку из сильнейшей расы"
+  - "Повелитель звірів, вигнаний з паті героя, зустрів дівчину-кицьку з сильнішої раси"
 category: anime
 score: 5
 locale: ru

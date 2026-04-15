@@ -1,5 +1,8 @@
 ---
 title: "Isshuukan Friends. Kaori no Nikki"
+aka:
+  - "One Week Friends Kaori no Nikki"
+  - "Друзья на неделю: Спецвыпуски"
 category: anime
 score: 2
 locale: ru

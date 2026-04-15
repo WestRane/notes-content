@@ -1,5 +1,9 @@
 ---
 title: "Arifureta Shokugyou de Sekai Saikyou 2nd season"
+aka:
+  - "Arifureta: From Commonplace to World's Strongest Season 2"
+  - "Арифурэта: Сильнейший ремесленник в мире 2"
+  - "Звичайна професія — найсильніший у світі - 2 сезон"
 category: anime
 score: 4
 locale: ru

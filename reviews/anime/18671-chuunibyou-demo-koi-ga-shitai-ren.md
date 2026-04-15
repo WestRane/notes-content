@@ -1,5 +1,9 @@
 ---
 title: "Chuunibyou demo Koi ga Shitai! Ren"
+aka:
+  - "Love, Chunibyo & Other Delusions - Heart Throb -"
+  - "Чудачества любви не помеха! 2"
+  - "Чюнібьо теж хочуть кохати!: Калатання серця"
 category: anime
 score: 7
 locale: ru

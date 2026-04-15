@@ -1,5 +1,9 @@
 ---
 title: "Yuru Camp△ Movie"
+aka:
+  - "Laid-Back Camp The Movie"
+  - "Лагерь на свежем воздухе. Фильм"
+  - "Дівчачий табір△ Фільм"
 category: anime
 score: 9
 locale: ru

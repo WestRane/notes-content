@@ -1,5 +1,9 @@
 ---
 title: "Super Cub"
+aka:
+  - "Super Cub"
+  - "Супер Каб"
+  - "Супер Каб"
 category: anime
 score: 5
 locale: ru

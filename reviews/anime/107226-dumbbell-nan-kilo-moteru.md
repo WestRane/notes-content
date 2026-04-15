@@ -1,5 +1,9 @@
 ---
 title: "Dumbbell Nan Kilo Moteru?"
+aka:
+  - "How Heavy Are the Dumbbells You Lift?"
+  - "Насколько тяжёлые гантели ты сможешь поднять?"
+  - "Скільки кіло потягнеш ти?"
 category: anime
 score: 7
 locale: ru

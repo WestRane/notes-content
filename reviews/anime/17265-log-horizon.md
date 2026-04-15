@@ -1,5 +1,9 @@
 ---
 title: "Log Horizon"
+aka:
+  - "Log Horizon"
+  - "Покорение горизонта"
+  - "Лоґ Горайзон"
 category: anime
 score: 8
 locale: ru

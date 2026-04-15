@@ -1,5 +1,9 @@
 ---
 title: "Re:Petit kara Hajimeru Isekai Seikatsu"
+aka:
+  - "Re:PETIT ~Re: Starting Life in Another World From PETIT~"
+  - "Re:Petit. Жизнь с малого в альтернативном мире"
+  - "Переродження: Перервочка з нуля в іншому світі - 1 сезон, 2 частина"
 category: anime
 score: 5
 locale: ru

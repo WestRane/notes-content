@@ -1,5 +1,9 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 3"
+aka:
+  - "The Rising of the Shield Hero Season 3"
+  - "Восхождение героя щита 3"
+  - "Сходження Героя щита - 3 сезон"
 category: anime
 score: 6
 locale: ru

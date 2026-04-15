@@ -1,5 +1,8 @@
 ---
 title: "Higurashi no Naku Koro ni: Nekogoroshi-hen"
+aka:
+  - "Когда плачут цикады: Глава об убийстве кошки"
+  - "У час, коли плачуть цикади Спешл"
 category: anime
 score: 8
 locale: ru

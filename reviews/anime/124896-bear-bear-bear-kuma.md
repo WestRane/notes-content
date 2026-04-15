@@ -1,5 +1,8 @@
 ---
 title: "Bear Bear Bear Kuma!"
+aka:
+  - "Ми-ми-ми-мишка! Тиби"
+  - "Ведмедики-кумедики ONA"
 category: anime
 score: 6
 locale: ru

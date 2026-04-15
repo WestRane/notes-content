@@ -1,5 +1,9 @@
 ---
 title: "Yama no Susume"
+aka:
+  - "Encouragement of Climb"
+  - "Манящие горы"
+  - "Заохочення до підкорення вершин"
 category: anime
 score: 3
 locale: ru

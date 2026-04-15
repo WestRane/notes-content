@@ -1,5 +1,9 @@
 ---
 title: "Kami no Tou: Tower of God"
+aka:
+  - "Tower of God"
+  - "Башня Бога"
+  - "Вежа Бога"
 category: anime
 score: 3
 locale: ru

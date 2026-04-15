@@ -1,5 +1,9 @@
 ---
 title: "Uramichi Oniisan"
+aka:
+  - "Life Lessons with Uramichi Oniisan"
+  - "Двуличный братик"
+  - "Життєві уроки з Братиком Урамічі"
 category: anime
 score: 7
 locale: ru

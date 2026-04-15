@@ -1,5 +1,9 @@
 ---
 title: "[Oshi no Ko]"
+aka:
+  - "Oshi No Ko"
+  - "Ребёнок идола"
+  - "Діти улюблениці "
 category: anime
 score: 9
 locale: ru

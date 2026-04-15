@@ -1,5 +1,9 @@
 ---
 title: "Sword Art Offline"
+aka:
+  - "Sword Art OFFline"
+  - "Мастера Меча Оффлайн"
+  - "Мистецтво Меча Оффлайн"
 category: anime
 score: 4
 locale: ru

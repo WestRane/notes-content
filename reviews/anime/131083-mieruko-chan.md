@@ -1,5 +1,9 @@
 ---
 title: "Mieruko-chan"
+aka:
+  - "Mieruko-chan"
+  - "Девочка, которая видит это"
+  - "Дівчинка, що бачить це"
 category: anime
 score: 4
 locale: ru

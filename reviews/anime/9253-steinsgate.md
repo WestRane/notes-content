@@ -1,5 +1,9 @@
 ---
 title: "Steins;Gate"
+aka:
+  - "Steins;Gate"
+  - "Врата Штейна"
+  - "Штайнова;Брама"
 category: anime
 score: 8
 locale: ru

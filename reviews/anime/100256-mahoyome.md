@@ -1,5 +1,8 @@
 ---
 title: "Mahoyome"
+aka:
+  - "Невеста чародея ONA"
+  - "Наречена чаклуна ONA"
 category: anime
 score: 7
 locale: ru

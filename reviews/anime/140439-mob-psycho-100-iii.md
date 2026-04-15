@@ -1,5 +1,9 @@
 ---
 title: "Mob Psycho 100 III"
+aka:
+  - "Mob Psycho 100 III"
+  - "Моб Психо 100 3"
+  - "Моб Психо 100 - 3 сезон"
 category: anime
 score: 7
 locale: ru

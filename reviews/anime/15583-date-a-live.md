@@ -1,5 +1,9 @@
 ---
 title: "Date A Live"
+aka:
+  - "Date A Live"
+  - "Рандеву с жизнью"
+  - "Побачення з життям"
 category: anime
 score: 2
 locale: ru

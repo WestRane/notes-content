@@ -1,5 +1,9 @@
 ---
 title: "Youjo Senki Movie"
+aka:
+  - "Saga of Tanya the Evil - the Movie -"
+  - "Военная хроника маленькой девочки. Фильм"
+  - "Військова історія маленької дівчинки Фільм"
 category: anime
 score: 7
 locale: ru

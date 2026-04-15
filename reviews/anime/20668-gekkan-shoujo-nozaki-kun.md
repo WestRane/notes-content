@@ -1,5 +1,9 @@
 ---
 title: "Gekkan Shoujo Nozaki-kun"
+aka:
+  - "Monthly Girls' Nozaki-kun"
+  - "Ежемесячное сёдзё Нодзаки"
+  - "Нодзакі-кун і його шьоджьо-манґа"
 category: anime
 score: 8
 locale: ru

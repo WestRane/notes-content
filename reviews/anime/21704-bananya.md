@@ -1,5 +1,9 @@
 ---
 title: "Bananya"
+aka:
+  - "Bananya"
+  - "Бананя"
+  - "Бананя"
 category: anime
 score: 5
 locale: ru

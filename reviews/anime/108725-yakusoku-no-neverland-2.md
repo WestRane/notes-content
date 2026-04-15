@@ -1,5 +1,9 @@
 ---
 title: "Yakusoku no Neverland 2"
+aka:
+  - "The Promised Neverland Season 2"
+  - "Обещанный Неверленд 2"
+  - "Обіцяний Неверленд - 2 сезон"
 category: anime
 score: 5
 locale: ru

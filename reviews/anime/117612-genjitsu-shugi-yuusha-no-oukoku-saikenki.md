@@ -1,5 +1,9 @@
 ---
 title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+aka:
+  - "How a Realist Hero Rebuilt the Kingdom"
+  - "Герой-рационал перестраивает королевство"
+  - "Як герой-реаліст перебудовує королівство"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Sentouin, Hakenshimasu!"
+aka:
+  - "Combatants Will Be Dispatched!"
+  - "Комбатанты будут высланы!"
+  - "Бійці будуть відправлені!"
 category: anime
 score: 7
 locale: ru

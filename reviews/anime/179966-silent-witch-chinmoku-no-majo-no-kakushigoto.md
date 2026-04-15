@@ -1,5 +1,9 @@
 ---
 title: "Silent Witch: Chinmoku no Majo no Kakushigoto"
+aka:
+  - "Secrets of the Silent Witch"
+  - "Молчаливая ведьма: Тайна молчаливой колдуньи"
+  - "Таємниці мовчазної відьми"
 category: anime
 score: 4
 locale: en

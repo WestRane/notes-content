@@ -1,5 +1,9 @@
 ---
 title: "Hataraku Saibou: Kaze Shoukougun"
+aka:
+  - "Cells at Work!: The Common Cold"
+  - "Клетки за работой: Простуда"
+  - "Робота клітин Спешл"
 category: anime
 score: 8
 locale: ru

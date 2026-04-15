@@ -1,5 +1,9 @@
 ---
 title: "Isekai wa Smartphone to Tomo ni."
+aka:
+  - "In Another World With My Smartphone"
+  - "В другом мире со смартфоном"
+  - "В іншому світі зі смартфоном"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Tokyo Ghoul"
+aka:
+  - "Tokyo Ghoul"
+  - "Токийский гуль"
+  - "Токійський людожер"
 category: anime
 score: 7
 locale: ru

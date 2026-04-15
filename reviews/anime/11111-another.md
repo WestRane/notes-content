@@ -1,5 +1,9 @@
 ---
 title: "Another"
+aka:
+  - "Another"
+  - "Иная"
+  - "Інша"
 category: anime
 score: 5
 locale: ru

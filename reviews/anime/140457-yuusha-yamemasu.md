@@ -1,5 +1,9 @@
 ---
 title: "Yuusha, Yamemasu"
+aka:
+  - "I'm Quitting Heroing"
+  - "Перестану быть героем"
+  - "Годі з мене героїзму!"
 category: anime
 score: 6
 locale: ru

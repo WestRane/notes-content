@@ -1,5 +1,9 @@
 ---
 title: "Eromanga Sensei"
+aka:
+  - "Eromanga Sensei"
+  - "Эроманга-сэнсэй"
+  - "Ероманґа-сенсей"
 category: anime
 score: 3
 locale: ru

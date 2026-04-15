@@ -1,5 +1,9 @@
 ---
 title: "Kanojo, Okarishimasu"
+aka:
+  - "Rent-a-Girlfriend"
+  - "Девушка на час"
+  - "Дівчина напрокат"
 category: anime
 score: 4
 locale: ru

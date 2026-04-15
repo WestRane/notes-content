@@ -1,5 +1,8 @@
 ---
 title: "Yuru Camp△ SEASON 2 OVA"
+aka:
+  - "Лагерь на свежем воздухе 2: Спецвыпуски"
+  - "Дівчачий табір△ - 2 сезон Спешли"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Rikei ga Koi ni Ochita no de Shoumei shitemita."
+aka:
+  - "Science Fell in Love, So I Tried to Prove It"
+  - "Влюблённые учёные и научное доказательство любви"
+  - "Наука закохалася і я доведу це!"
 category: anime
 score: 7
 locale: ru

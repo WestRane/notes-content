@@ -1,5 +1,9 @@
 ---
 title: "Code Geass: Nunnally in Wonderland"
+aka:
+  - "Code Geass: Nunnally in Wonderland"
+  - "Код Гиас: Нанналли в Стране чудес"
+  - "Код Ґіас: Повстання Лелуша - Нанналлі в країні чудес"
 category: anime
 score: 7
 locale: ru

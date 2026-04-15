@@ -1,5 +1,9 @@
 ---
 title: "JoJo no Kimyou na Bouken: Stone Ocean Part 2"
+aka:
+  - "JoJo's Bizarre Adventure: STONE OCEAN Part 2"
+  - "Невероятное приключение ДжоДжо: Каменный океан. Часть 2"
+  - "Химерні пригоди ДжоДжо: Кам'яний океан - 2 частина"
 category: anime
 score: 8
 locale: ru

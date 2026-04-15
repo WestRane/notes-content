@@ -1,5 +1,9 @@
 ---
 title: "Gakkou Gurashi!"
+aka:
+  - "SCHOOL-LIVE!"
+  - "Школьная жизнь!"
+  - "Шкільне життя!"
 category: anime
 score: 7
 locale: ru

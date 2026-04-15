@@ -1,5 +1,8 @@
 ---
 title: "Mekakucity Actors"
+aka:
+  - "Актёры ослеплённого города"
+  - "Актори міста Мекаку"
 category: anime
 score: 6
 locale: ru

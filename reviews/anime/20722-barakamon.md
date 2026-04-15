@@ -1,5 +1,9 @@
 ---
 title: "Barakamon"
+aka:
+  - "Barakamon"
+  - "Баракамон"
+  - "Дзиґа"
 category: anime
 score: 7
 locale: ru

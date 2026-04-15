@@ -1,5 +1,9 @@
 ---
 title: "Lazarus"
+aka:
+  - "LAZARUS"
+  - "Лазарь"
+  - "Лазар"
 category: anime
 score: 7
 locale: ru

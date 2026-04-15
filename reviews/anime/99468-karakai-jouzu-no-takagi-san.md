@@ -1,5 +1,9 @@
 ---
 title: "Karakai Jouzu no Takagi-san"
+aka:
+  - "Teasing Master Takagi-san"
+  - "Озорная Такаги"
+  - "Провокаторка Такаґі"
 category: anime
 score: 8
 locale: ru

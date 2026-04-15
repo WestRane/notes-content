@@ -1,5 +1,9 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica"
+aka:
+  - "Puella Magi Madoka Magica"
+  - "Девочка-волшебница Мадока★Волшебство"
+  - "Чарівниця Мадока★Маґіка"
 category: anime
 score: 7
 locale: ru

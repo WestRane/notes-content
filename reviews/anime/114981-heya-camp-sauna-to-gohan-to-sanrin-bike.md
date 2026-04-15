@@ -1,5 +1,9 @@
 ---
 title: "Heya Camp△: Sauna to Gohan to Sanrin Bike"
+aka:
+  - "ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes"
+  - "Комнатный поход: Сауна, рис и трёхколёсный мотоцикл"
+  - "Кімнатний табір△"
 category: anime
 score: 8
 locale: en

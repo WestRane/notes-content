@@ -1,5 +1,9 @@
 ---
 title: "Isshuukan Friends."
+aka:
+  - "One Week Friends"
+  - "Друзья на неделю"
+  - "Друзі на тиждень"
 category: anime
 score: 3
 locale: ru

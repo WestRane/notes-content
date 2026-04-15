@@ -1,5 +1,9 @@
 ---
 title: "Lucky☆Star"
+aka:
+  - "Lucky☆Star"
+  - "Счастливая звезда"
+  - "Щаслива☆Зірка"
 category: anime
 score: 8
 locale: ru

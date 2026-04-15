@@ -1,5 +1,9 @@
 ---
 title: "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!"
+aka:
+  - "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!"
+  - "Этот замечательный мир! Этот замечательный ошейник!"
+  - "Цей прекрасний світ, благословенний Богом! OVA"
 category: anime
 score: 7
 locale: ru

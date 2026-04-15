@@ -1,5 +1,9 @@
 ---
 title: "Log Horizon: Entaku Houkai"
+aka:
+  - "Log Horizon: Destruction of the Round Table"
+  - "Покорение горизонта: Падение круглого стола"
+  - "Лоґ Горайзон - 3 сезон"
 category: anime
 score: 7
 locale: ru

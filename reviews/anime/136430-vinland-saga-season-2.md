@@ -1,5 +1,9 @@
 ---
 title: "VINLAND SAGA SEASON 2"
+aka:
+  - "Vinland Saga Season 2"
+  - "Сага о Винланде 2"
+  - "Сага про Вінланд - 2 сезон"
 category: anime
 score: 8
 locale: ru

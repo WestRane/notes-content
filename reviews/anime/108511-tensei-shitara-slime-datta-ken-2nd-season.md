@@ -1,5 +1,9 @@
 ---
 title: "Tensei Shitara Slime Datta Ken 2nd Season"
+aka:
+  - "That Time I Got Reincarnated as a Slime Season 2"
+  - "О моём перерождении в слизь 2"
+  - "Про моє переродження в слиз - 2 сезон"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Fate/stay night"
+aka:
+  - "Fate/stay night"
+  - "Судьба/Ночь схватки"
+  - "Доля/Ніч битви"
 category: anime
 score: 4
 locale: ru

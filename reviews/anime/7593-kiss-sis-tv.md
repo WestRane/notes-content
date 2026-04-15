@@ -1,5 +1,8 @@
 ---
 title: "kiss×sis (TV)"
+aka:
+  - "Поцелуй сестёр"
+  - "Поцілунок сестер"
 category: anime
 score: 5
 locale: ru

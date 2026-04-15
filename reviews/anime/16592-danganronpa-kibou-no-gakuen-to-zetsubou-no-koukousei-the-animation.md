@@ -1,5 +1,9 @@
 ---
 title: "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
+aka:
+  - "Danganronpa: The Animation"
+  - "Данганронпа: Школа надежды и безнадёжные школьники"
+  - "Данґанронпа: Школа надії та відчаю"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Overlord II"
+aka:
+  - "Overlord II"
+  - "Повелитель 2"
+  - "Повелитель - 2 сезон"
 category: anime
 score: 7
 locale: ru

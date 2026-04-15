@@ -1,5 +1,9 @@
 ---
 title: "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO"
+aka:
+  - "YU-NO: A Girl Who Chants Love at the Bound of This World"
+  - "Юно: Девушка, что воспевает любовь на грани этого мира"
+  - "Ю-но: Дівчина, яка оспівує кохання на межі цього світу"
 category: anime
 score: 4
 locale: ru

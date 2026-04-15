@@ -1,5 +1,9 @@
 ---
 title: "WORKING'!!"
+aka:
+  - "Wagnaria!!2"
+  - "Работа!! 2"
+  - "Робота!! - 2 сезон"
 category: anime
 score: 7
 locale: ru

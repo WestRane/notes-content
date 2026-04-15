@@ -1,5 +1,9 @@
 ---
 title: "Karakai Jouzu no Takagi-san 3"
+aka:
+  - "Teasing Master Takagi-san Season 3"
+  - "Озорная Такаги 3"
+  - "Провокаторка Такаґі - 3 сезон"
 category: anime
 score: 8
 locale: ru

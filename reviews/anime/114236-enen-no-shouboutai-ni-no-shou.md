@@ -1,5 +1,9 @@
 ---
 title: "Enen no Shouboutai: Ni no Shou"
+aka:
+  - "Fire Force Season 2"
+  - "Пламенная бригада пожарных: Вторая глава"
+  - "Полум'яні вогнеборці - 2 сезон"
 category: anime
 score: 2
 locale: ru

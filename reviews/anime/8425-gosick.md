@@ -1,5 +1,9 @@
 ---
 title: "GOSICK"
+aka:
+  - "Gosick"
+  - "Готика"
+  - "Ґотика"
 category: anime
 score: 5
 locale: ru

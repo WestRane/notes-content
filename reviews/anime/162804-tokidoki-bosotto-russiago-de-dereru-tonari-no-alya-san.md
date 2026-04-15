@@ -1,5 +1,9 @@
 ---
 title: "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san"
+aka:
+  - "Alya Sometimes Hides Her Feelings in Russian"
+  - "Аля иногда кокетничает со мной по-русски"
+  - "Аля іноді розмовляє російською, щоб приховати свої почуття"
 category: anime
 score: 5
 locale: ru

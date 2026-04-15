@@ -1,5 +1,9 @@
 ---
 title: "Yamada-kun to 7-nin no Majo"
+aka:
+  - "Yamada and the Seven Witches"
+  - "Ямада-кун и семь ведьм"
+  - "Ямада та 7 відьом"
 category: anime
 score: 3
 locale: ru

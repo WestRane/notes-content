@@ -1,5 +1,9 @@
 ---
 title: "Suzumiya Haruhi-chan no Yuuutsu"
+aka:
+  - "The Melancholy of Haruhi-chan Suzumiya"
+  - "Меланхолия Харухи Судзумии-тян"
+  - "Меланхолія Судзумії Харухі-чян"
 category: anime
 score: 4
 locale: ru

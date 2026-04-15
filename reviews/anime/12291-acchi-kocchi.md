@@ -1,5 +1,9 @@
 ---
 title: "Acchi Kocchi"
+aka:
+  - "Place to Place"
+  - "С места на место"
+  - "Туди-сюди"
 category: anime
 score: 3
 locale: ru

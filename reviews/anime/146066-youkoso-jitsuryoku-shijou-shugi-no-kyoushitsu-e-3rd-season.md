@@ -1,5 +1,9 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+aka:
+  - "Classroom of the Elite Season 3"
+  - "Добро пожаловать в класс превосходства 3"
+  - "Ласкаво просимо до класу еліти - 3 сезон"
 category: anime
 score: 7
 locale: ru

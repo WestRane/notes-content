@@ -1,5 +1,9 @@
 ---
 title: "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
+aka:
+  - "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside"
+  - "Меня выгнали из гильдии героев, потому что я был плохим компаньоном, поэтому я решил неспешно жить в глуши"
+  - "Поганий соратник для групи героя обрав спокійне життя в селі"
 category: anime
 score: 6
 locale: ru

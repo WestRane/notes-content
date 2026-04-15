@@ -1,5 +1,9 @@
 ---
 title: "Re:Zero kara Hajimeru Isekai Seikatsu"
+aka:
+  - "Re:ZERO -Starting Life in Another World-"
+  - "Re:Zero. Жизнь с нуля в альтернативном мире"
+  - "Переродження: Життя з нуля в іншому світі"
 category: anime
 score: 8
 locale: ru

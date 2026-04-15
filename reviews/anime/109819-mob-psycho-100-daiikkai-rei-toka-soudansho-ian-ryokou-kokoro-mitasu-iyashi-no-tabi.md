@@ -1,5 +1,9 @@
 ---
 title: "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi"
+aka:
+  - "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~"
+  - "Моб Психо 100: Первая поездка «Консультаций по призракам и всякой всячине» — Путешествие, исцеляющее душу и тело"
+  - "Моб Психо 100: Перша екскурсія компанії \"Консультації щодо духів і тому подібних\" ~Цілюща подорож, яка зігріває серце~"
 category: anime
 score: 4
 locale: ru

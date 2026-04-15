@@ -1,5 +1,9 @@
 ---
 title: "Arifureta Shokugyou de Sekai Saikyou"
+aka:
+  - "Arifureta: From Commonplace to World's Strongest"
+  - "Арифурэта: Сильнейший ремесленник в мире"
+  - "Звичайна професія — найсильніший у світі"
 category: anime
 score: 3
 locale: ru

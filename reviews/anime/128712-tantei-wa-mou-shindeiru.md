@@ -1,5 +1,9 @@
 ---
 title: "Tantei wa mou, Shindeiru."
+aka:
+  - "The Detective Is Already Dead"
+  - "Детектив уже мёртв"
+  - "Детективка вже мертва"
 category: anime
 score: 3
 locale: ru

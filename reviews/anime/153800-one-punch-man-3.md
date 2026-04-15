@@ -1,5 +1,9 @@
 ---
 title: "One Punch Man 3"
+aka:
+  - "One-Punch Man Season 3"
+  - "Ванпанчмен 3"
+  - "Ванпанчмен - 3 сезон"
 category: anime
 score: 3
 locale: ru

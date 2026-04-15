@@ -1,5 +1,9 @@
 ---
 title: "Sakamoto desu ga?: Sakamoto Deshita?"
+aka:
+  - "Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto"
+  - "Я — Сакамото, а что? Эпизод 13"
+  - "Я — Сакамото, втямили? Спешл"
 category: anime
 score: 4
 locale: ru

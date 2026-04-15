@@ -1,5 +1,9 @@
 ---
 title: "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni"
+aka:
+  - "Neon Genesis Evangelion: The End of Evangelion"
+  - "Евангелион нового поколения: Конец Евангелиона"
+  - "Кінець Євангеліону"
 category: anime
 score: 1
 locale: ru

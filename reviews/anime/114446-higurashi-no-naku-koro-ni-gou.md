@@ -1,5 +1,9 @@
 ---
 title: "Higurashi no Naku Koro ni Gou"
+aka:
+  - "Higurashi: When They Cry - GOU"
+  - "Когда плачут цикады: Карма"
+  - "У час, коли плачуть цикади"
 category: anime
 score: 2
 locale: ru

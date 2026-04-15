@@ -1,5 +1,9 @@
 ---
 title: "Kyoukai no Kanata"
+aka:
+  - "Beyond the Boundary"
+  - "По ту сторону границы"
+  - "За гранню"
 category: anime
 score: 6
 locale: ru

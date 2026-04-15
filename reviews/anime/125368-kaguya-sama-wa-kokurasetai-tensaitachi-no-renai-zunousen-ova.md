@@ -1,5 +1,8 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA"
+aka:
+  - "Госпожа Кагуя: в любви как на войне OVA"
+  - "Каґуя хоче, щоб їй зізналися: Війна любові та розуму геніїв OVA"
 category: anime
 score: 6
 locale: ru

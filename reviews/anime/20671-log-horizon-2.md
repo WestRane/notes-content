@@ -1,5 +1,9 @@
 ---
 title: "Log Horizon 2"
+aka:
+  - "Log Horizon 2"
+  - "Покорение горизонта 2"
+  - "Лоґ Горайзон - 2 сезон"
 category: anime
 score: 5
 locale: ru

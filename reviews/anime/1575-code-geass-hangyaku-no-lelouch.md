@@ -1,5 +1,9 @@
 ---
 title: "Code Geass: Hangyaku no Lelouch"
+aka:
+  - "Code Geass: Lelouch of the Rebellion"
+  - "Код Гиас: Восставший Лелуш"
+  - "Код Ґіас: Повстання Лелуша"
 category: anime
 score: 4
 locale: ru

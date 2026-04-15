@@ -1,5 +1,9 @@
 ---
 title: "Overlord: Ple Ple Pleiades"
+aka:
+  - "Overlord: Ple Ple Pleiades"
+  - "Повелитель: Пле-пле-плеяды"
+  - "Повелитель: Пле-пле плеяди"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Heya Camp△"
+aka:
+  - "ROOM CAMP"
+  - "Комнатный поход"
+  - "Кімнатний табір"
 category: anime
 score: 7
 locale: en

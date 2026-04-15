@@ -1,5 +1,9 @@
 ---
 title: "Himouto! Umaru-chan"
+aka:
+  - "Himouto! Umaru-chan"
+  - "Двуличная сестрёнка Умару!"
+  - "Дволика сестричка Умару"
 category: anime
 score: 7
 locale: ru

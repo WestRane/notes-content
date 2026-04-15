@@ -1,5 +1,9 @@
 ---
 title: "Komi-san wa, Komyushou desu."
+aka:
+  - "Komi Can’t Communicate"
+  - "У Коми проблемы с общением"
+  - "Комі не вміє спілкуватися"
 category: anime
 score: 3
 locale: ru

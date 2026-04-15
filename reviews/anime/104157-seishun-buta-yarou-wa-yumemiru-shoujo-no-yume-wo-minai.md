@@ -1,5 +1,9 @@
 ---
 title: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+aka:
+  - "Rascal Does Not Dream of a Dreaming Girl"
+  - "Этот глупый свин не понимает мечту девочки-мечтательницы"
+  - "Негідники не мріють про шляхетних дівчат"
 category: anime
 score: 6
 locale: ru

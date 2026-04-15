@@ -1,5 +1,9 @@
 ---
 title: "Boku dake ga Inai Machi"
+aka:
+  - "ERASED"
+  - "Город, в котором меня нет"
+  - "Місто, де немає лиш мене"
 category: anime
 score: 8
 locale: ru

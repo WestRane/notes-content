@@ -1,5 +1,9 @@
 ---
 title: "SPY×FAMILY"
+aka:
+  - "SPY x FAMILY"
+  - "Семья шпиона"
+  - "Сім'я шпигуна"
 category: anime
 score: 9
 locale: ru

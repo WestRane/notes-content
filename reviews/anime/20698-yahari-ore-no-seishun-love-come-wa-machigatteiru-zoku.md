@@ -1,5 +1,9 @@
 ---
 title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku"
+aka:
+  - "My Teen Romantic Comedy SNAFU TOO!"
+  - "Как и ожидалось, моя школьная романтическая жизнь не удалась 2"
+  - "Моя романтична комедія не зовсім те, на що я очікував - 2 сезон"
 category: anime
 score: 5
 locale: ru

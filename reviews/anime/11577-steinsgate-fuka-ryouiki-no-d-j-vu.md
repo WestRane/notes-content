@@ -1,5 +1,9 @@
 ---
 title: "Steins;Gate: Fuka Ryouiki no Déjà vu"
+aka:
+  - "Steins;Gate The Movie – Load Region of Déjà Vu"
+  - "Врата Штейна: Зона загрузки дежавю"
+  - "Штайнова;Брама: Область перезавантаження дежавю"
 category: anime
 score: 7
 locale: ru

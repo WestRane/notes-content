@@ -1,5 +1,9 @@
 ---
 title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+aka:
+  - "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+  - "Непризнанный школой владыка демонов! Сильнейший владыка демонов в истории поступает в академию, переродившись своим потомком"
+  - "Невизнаний в Академії Короля демонів"
 category: anime
 score: 7
 locale: ru

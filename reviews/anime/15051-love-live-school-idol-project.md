@@ -1,5 +1,9 @@
 ---
 title: "Love Live! School idol project"
+aka:
+  - "Love Live! School Idol Project"
+  - "Живая любовь! Проект «Школьный идол»"
+  - "Любов наживо! Проєкт «Шкільний ідол»"
 category: anime
 score: 3
 locale: ru

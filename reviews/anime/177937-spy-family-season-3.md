@@ -1,5 +1,9 @@
 ---
 title: "SPY×FAMILY Season 3"
+aka:
+  - "SPY x FAMILY Season 3"
+  - "Семья шпиона 3"
+  - "Сім'я шпигуна - 3 сезон"
 category: anime
 score: 8
 locale: en

@@ -1,5 +1,9 @@
 ---
 title: "Ookami to Koushinryou II Specials"
+aka:
+  - "Spice and Wolf II Specials"
+  - "Волчица и пряности II: Спецвыпуски"
+  - "Вовчиця і прянощі - 2 сезон Спешли"
 category: anime
 score: 6
 locale: ru

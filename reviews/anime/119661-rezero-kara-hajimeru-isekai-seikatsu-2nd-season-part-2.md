@@ -1,5 +1,9 @@
 ---
 title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
+aka:
+  - "Re:ZERO -Starting Life in Another World- Season 2 Part 2"
+  - "Re:Zero. Жизнь с нуля в альтернативном мире 2. Часть 2"
+  - "Переродження: Життя з нуля в іншому світі - 2 сезон, 2 частина"
 category: anime
 score: 3
 locale: ru

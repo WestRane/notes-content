@@ -1,5 +1,9 @@
 ---
 title: "Sewayaki Kitsune no Senko-san"
+aka:
+  - "The Helpful Fox Senko-san"
+  - "Заботливая 800-летняя жена!"
+  - "Надміру турботливе хвостате Божество"
 category: anime
 score: 7
 locale: ru

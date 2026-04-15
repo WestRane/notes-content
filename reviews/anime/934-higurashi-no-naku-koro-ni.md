@@ -1,5 +1,9 @@
 ---
 title: "Higurashi no Naku Koro ni"
+aka:
+  - "When They Cry"
+  - "Когда плачут цикады"
+  - "У час, коли плачуть цикади"
 category: anime
 score: 8
 locale: ru

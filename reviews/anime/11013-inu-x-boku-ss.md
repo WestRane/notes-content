@@ -1,5 +1,9 @@
 ---
 title: "Inu x Boku SS"
+aka:
+  - "Inu X Boku Secret Service"
+  - "Я и мой слуга из секретной службы"
+  - "Пес і я: Таємна служба"
 category: anime
 score: 5
 locale: ru

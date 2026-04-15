@@ -1,5 +1,9 @@
 ---
 title: "Isekai Yakkyoku"
+aka:
+  - "Parallel World Pharmacy"
+  - "Фармацевт из параллельного мира"
+  - "Аптека іншого світу"
 category: anime
 score: 6
 locale: ru

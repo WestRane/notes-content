@@ -1,5 +1,9 @@
 ---
 title: "Wotaku ni Koi wa Muzukashii"
+aka:
+  - "Wotakoi: Love is Hard for Otaku"
+  - "Так сложно любить отаку"
+  - "Так складно кохати отаку"
 category: anime
 score: 8
 locale: ru

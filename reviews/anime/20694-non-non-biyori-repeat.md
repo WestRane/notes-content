@@ -1,5 +1,9 @@
 ---
 title: "Non Non Biyori: Repeat"
+aka:
+  - "Non Non Biyori Repeat"
+  - "Деревенская глубинка 2"
+  - "Безтурботні часи: На біс"
 category: anime
 score: 6
 locale: ru

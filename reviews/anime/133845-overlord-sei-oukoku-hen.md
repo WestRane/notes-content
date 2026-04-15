@@ -1,5 +1,9 @@
 ---
 title: "Overlord: Sei Oukoku-hen"
+aka:
+  - "OVERLORD: The Sacred Kingdom"
+  - "Повелитель: Святое королевство"
+  - "Повелитель Фільм 3: Священне королівство"
 category: anime
 score: 8
 locale: ru

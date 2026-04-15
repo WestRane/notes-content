@@ -1,5 +1,9 @@
 ---
 title: "BTOOOM!"
+aka:
+  - "BTOOOM!"
+  - "Бтууум!"
+  - "БТУМ!"
 category: anime
 score: 5
 locale: ru

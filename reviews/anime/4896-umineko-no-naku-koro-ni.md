@@ -1,5 +1,9 @@
 ---
 title: "Umineko no Naku Koro ni"
+aka:
+  - "Umineko: When They Cry"
+  - "Когда плачут чайки"
+  - "У час, коли плачуть чайки"
 category: anime
 score: 4
 locale: ru

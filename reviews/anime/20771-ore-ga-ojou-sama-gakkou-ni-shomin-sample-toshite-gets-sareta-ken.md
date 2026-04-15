@@ -1,5 +1,9 @@
 ---
 title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken"
+aka:
+  - "Shomin Sample"
+  - "Простолюдин в школе благородных девиц"
+  - "Зразок простолюдина"
 category: anime
 score: 6
 locale: ru

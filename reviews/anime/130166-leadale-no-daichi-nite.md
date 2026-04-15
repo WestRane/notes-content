@@ -1,5 +1,9 @@
 ---
 title: "Leadale no Daichi nite"
+aka:
+  - "In the Land of Leadale"
+  - "Мир Лидейл"
+  - "У Світі Лідейл"
 category: anime
 score: 6
 locale: ru

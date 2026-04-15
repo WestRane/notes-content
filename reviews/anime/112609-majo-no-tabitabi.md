@@ -1,5 +1,9 @@
 ---
 title: "Majo no Tabitabi"
+aka:
+  - "Wandering Witch: The Journey of Elaina"
+  - "Путешествие Элейны"
+  - "Подорож Елейни"
 category: anime
 score: 7
 locale: ru

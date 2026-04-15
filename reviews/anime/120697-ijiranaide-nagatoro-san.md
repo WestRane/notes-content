@@ -1,5 +1,9 @@
 ---
 title: "Ijiranaide, Nagatoro-san"
+aka:
+  - "DON'T TOY WITH ME, MISS NAGATORO"
+  - "Не издевайся, Нагаторо"
+  - "Не знущайся з мене, Наґаторо!"
 category: anime
 score: 1
 locale: ru

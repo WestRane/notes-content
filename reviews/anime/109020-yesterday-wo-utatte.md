@@ -1,5 +1,9 @@
 ---
 title: "Yesterday wo Utatte"
+aka:
+  - "SING \"YESTERDAY\" FOR ME"
+  - "Спой для меня «Вчера»"
+  - "Заспівай мені «Yesterday»"
 category: anime
 score: 6
 locale: ru

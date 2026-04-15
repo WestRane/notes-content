@@ -1,5 +1,9 @@
 ---
 title: "Code Geass: Hangyaku no Lelouch R2"
+aka:
+  - "Code Geass: Lelouch of the Rebellion R2"
+  - "Код Гиас: Восставший Лелуш 2"
+  - "Код Ґіас: Повстання Лелуша - 2 сезон"
 category: anime
 score: 2
 locale: ru

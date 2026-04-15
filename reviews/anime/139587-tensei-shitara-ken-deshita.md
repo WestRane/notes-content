@@ -1,5 +1,9 @@
 ---
 title: "Tensei Shitara Ken Deshita"
+aka:
+  - "Reincarnated as a Sword"
+  - "О моём перерождении в меч"
+  - "Переродження мечем"
 category: anime
 score: 7
 locale: ru

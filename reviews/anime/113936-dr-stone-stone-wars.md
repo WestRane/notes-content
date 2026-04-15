@@ -1,5 +1,9 @@
 ---
 title: "Dr. STONE: STONE WARS"
+aka:
+  - "Dr. STONE: STONE WARS"
+  - "Доктор Стоун: Каменные войны"
+  - "Доктор Стоун: Кам’яні війни"
 category: anime
 score: 7
 locale: ru

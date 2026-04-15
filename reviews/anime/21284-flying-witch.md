@@ -1,5 +1,9 @@
 ---
 title: "Flying Witch"
+aka:
+  - "Flying Witch"
+  - "Полёт ведьмы"
+  - "Політ відьми"
 category: anime
 score: 8
 locale: ru

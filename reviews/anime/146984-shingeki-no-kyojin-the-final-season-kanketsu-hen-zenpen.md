@@ -1,5 +1,9 @@
 ---
 title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
+aka:
+  - "Attack on Titan Final Season THE FINAL CHAPTERS Special 1"
+  - "Атака титанов: Финал — Заключительная глава"
+  - "Атака титанів: Фінальний сезон - 3-4 частина"
 category: anime
 score: 6
 locale: ru

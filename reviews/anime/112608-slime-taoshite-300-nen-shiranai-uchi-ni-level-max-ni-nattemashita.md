@@ -1,5 +1,9 @@
 ---
 title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita"
+aka:
+  - "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
+  - "Убивая слизней триста лет, сама того не заметив, я достигла максимального уровня"
+  - "Вбиваючи слиз 300 років, я досягла найвищого рівня"
 category: anime
 score: 7
 locale: ru

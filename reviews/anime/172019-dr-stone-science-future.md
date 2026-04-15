@@ -1,5 +1,9 @@
 ---
 title: "Dr. STONE: SCIENCE FUTURE"
+aka:
+  - "Dr. STONE SCIENCE FUTURE"
+  - "Доктор Стоун: Научное будущее"
+  - "Доктор Стоун: Наука майбутнього"
 category: anime
 score: 8
 locale: ru

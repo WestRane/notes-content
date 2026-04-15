@@ -1,5 +1,9 @@
 ---
 title: "Ore dake Level Up na Ken"
+aka:
+  - "Solo Leveling"
+  - "Поднятие уровня в одиночку"
+  - "Тільки я візьму новий рівень"
 category: anime
 score: 7
 locale: ru

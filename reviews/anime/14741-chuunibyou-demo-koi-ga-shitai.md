@@ -1,5 +1,9 @@
 ---
 title: "Chuunibyou demo Koi ga Shitai!"
+aka:
+  - "Love, Chunibyo & Other Delusions"
+  - "Чудачества любви не помеха!"
+  - "Чюнібьо теж хочуть кохати!"
 category: anime
 score: 7
 locale: ru

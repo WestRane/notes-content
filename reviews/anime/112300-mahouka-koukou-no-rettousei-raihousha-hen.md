@@ -1,5 +1,9 @@
 ---
 title: "Mahouka Koukou no Rettousei: Raihousha-hen"
+aka:
+  - "The Irregular at Magic High School: Visitor Arc"
+  - "Непутёвый ученик в школе магии: Гость"
+  - "Непутящий учень школи магії: Арка візитера"
 category: anime
 score: 7
 locale: ru

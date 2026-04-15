@@ -1,5 +1,9 @@
 ---
 title: "Otomege Sekai wa Mob ni Kibishii Sekai desu"
+aka:
+  - "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
+  - "Мир отомэ-игр — это тяжёлый мир для мобов"
+  - "У пастці симулятора побачень: Світ дівочої гри є важким для фонових персонажів"
 category: anime
 score: 4
 locale: ru

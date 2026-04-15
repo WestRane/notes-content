@@ -1,5 +1,9 @@
 ---
 title: "Horimiya"
+aka:
+  - "Horimiya"
+  - "Хоримия"
+  - "Хорімія"
 category: anime
 score: 8
 locale: ru

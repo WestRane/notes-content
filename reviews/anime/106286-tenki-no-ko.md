@@ -1,5 +1,9 @@
 ---
 title: "Tenki no Ko"
+aka:
+  - "Weathering With You"
+  - "Дитя погоды"
+  - "Дитя погоди"
 category: anime
 score: 6
 locale: ru

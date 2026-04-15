@@ -1,5 +1,9 @@
 ---
 title: "Hataraku Maou-sama!!"
+aka:
+  - "The Devil is a Part-Timer! Season 2"
+  - "Повелитель тьмы на подработке!!"
+  - "Сатана на заробітках! - 2 сезон"
 category: anime
 score: 6
 locale: ru

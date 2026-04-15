@@ -1,5 +1,9 @@
 ---
 title: "Yuru Camp△ SEASON 3"
+aka:
+  - "Laid-Back Camp Season 3"
+  - "Лагерь на свежем воздухе 3"
+  - "Дівчачий табір△ - 3 сезон"
 category: anime
 score: 9
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kyokou Suiri"
+aka:
+  - "In/Spectre"
+  - "Ложные выводы"
+  - "Хибні міркування"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Made in Abyss"
+aka:
+  - "Made in Abyss"
+  - "Созданный в Бездне"
+  - "Зроблено в Безодні"
 category: anime
 score: 6
 locale: ru

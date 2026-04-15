@@ -1,5 +1,9 @@
 ---
 title: "Nanbaka"
+aka:
+  - "NANBAKA"
+  - "Намбака"
+  - "Намбака"
 category: anime
 score: 4
 locale: ru

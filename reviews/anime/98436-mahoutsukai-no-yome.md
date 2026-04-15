@@ -1,5 +1,9 @@
 ---
 title: "Mahoutsukai no Yome"
+aka:
+  - "The Ancient Magus' Bride"
+  - "Невеста чародея"
+  - "Наречена чаклуна"
 category: anime
 score: 6
 locale: ru

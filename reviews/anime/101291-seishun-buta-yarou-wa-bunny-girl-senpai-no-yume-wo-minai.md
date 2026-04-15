@@ -1,5 +1,9 @@
 ---
 title: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+aka:
+  - "Rascal Does Not Dream of Bunny Girl Senpai"
+  - "Этот глупый свин не понимает мечту девочки-зайки"
+  - "Негідники не мріють про шляхетних кроличок"
 category: anime
 score: 8
 locale: ru

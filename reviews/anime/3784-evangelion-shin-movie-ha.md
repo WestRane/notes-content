@@ -1,5 +1,9 @@
 ---
 title: "Evangelion Shin Movie: Ha"
+aka:
+  - "Evangelion: 2.0 You Can (Not) Advance"
+  - "Евангелион 2.22: Ты (не) пройдёшь"
+  - "Євангеліон 2.22: Ти (Не) Пройдеш"
 category: anime
 score: 4
 locale: ru

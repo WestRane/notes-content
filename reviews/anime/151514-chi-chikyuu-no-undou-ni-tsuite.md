@@ -1,5 +1,9 @@
 ---
 title: "Chi. Chikyuu no Undou ni Tsuite"
+aka:
+  - "Orb: On the Movements of the Earth"
+  - "О движении Земли"
+  - "Орбіта: Про рух Землі"
 category: anime
 score: 7
 locale: ru

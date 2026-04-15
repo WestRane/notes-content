@@ -1,5 +1,9 @@
 ---
 title: "Okusama ga Seitokaichou!"
+aka:
+  - "My Wife is the Student Council President"
+  - "Моя жена — президент студенческого совета!"
+  - "Голова учради — моя наречена!"
 category: anime
 score: 4
 locale: ru

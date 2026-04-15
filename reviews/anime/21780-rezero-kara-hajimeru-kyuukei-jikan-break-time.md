@@ -1,5 +1,9 @@
 ---
 title: "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)"
+aka:
+  - "Re:ZERO ~Starting Break Time From Zero~"
+  - "Re:Zero. Перерыв с нуля"
+  - "Переродження: Перервочка з нуля в іншому світі"
 category: anime
 score: 8
 locale: ru

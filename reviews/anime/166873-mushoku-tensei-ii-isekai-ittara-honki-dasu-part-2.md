@@ -1,5 +1,9 @@
 ---
 title: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2"
+aka:
+  - "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2"
+  - "Реинкарнация безработного: История о приключениях в другом мире 2. Часть 2"
+  - "Реінкарнація безробітного: В інший світ на повному серйозі - 2 сезон, 2 частина"
 category: anime
 score: 6
 locale: ru

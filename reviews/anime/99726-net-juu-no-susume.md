@@ -1,5 +1,9 @@
 ---
 title: "Net-juu no Susume"
+aka:
+  - "Recovery of an MMO Junkie"
+  - "Полноценная жизнь онлайн"
+  - "Рекомендації для чудового життя онлайн"
 category: anime
 score: 4
 locale: ru

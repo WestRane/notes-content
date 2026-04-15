@@ -1,5 +1,9 @@
 ---
 title: "Tanaka-kun wa Itsumo Kedaruge Tokuten"
+aka:
+  - "Tanaka-kun is Always Listless Shorts"
+  - "Всегда вялый Танака-кун: Спецвыпуски"
+  - "Безнадійний ледацюга Танака Спешли"
 category: anime
 score: 8
 locale: ru

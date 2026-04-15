@@ -1,5 +1,9 @@
 ---
 title: "Shin Evangelion Movie:||"
+aka:
+  - "Evangelion: 3.0+1.0 Thrice Upon a Time"
+  - "Евангелион 3.0+1.01: Как-то раз"
+  - "Євангеліон: 3.0+1.0 Одного разу"
 category: anime
 score: 1
 locale: ru

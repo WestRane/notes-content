@@ -1,5 +1,9 @@
 ---
 title: "Masamune-kun no Revenge"
+aka:
+  - "Masamune-kun's Revenge"
+  - "Месть Масамунэ!"
+  - "Помста Масамуне"
 category: anime
 score: 4
 locale: ru

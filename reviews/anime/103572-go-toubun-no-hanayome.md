@@ -1,5 +1,9 @@
 ---
 title: "Go-toubun no Hanayome"
+aka:
+  - "The Quintessential Quintuplets"
+  - "Пять невест"
+  - "П'ять наречених-близнят"
 category: anime
 score: 5
 locale: ru

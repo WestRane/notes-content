@@ -1,5 +1,9 @@
 ---
 title: "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen"
+aka:
+  - "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt"
+  - "Невероятное приключение ДжоДжо: Рыцари звёздной пыли 2"
+  - "Химерні пригоди ДжоДжо: Хрестоносці зоряного пилу - 2 частина"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
+aka:
+  - "The Slime Diaries"
+  - "О моём перерождении в слизь: Дневник слизи-попаданца"
+  - "Про моє переродження в слиз: Щоденник слизу"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kubo-san wa Mob wo Yurusanai"
+aka:
+  - "Kubo Won't Let Me Be Invisible"
+  - "Кубо не прощает меня — моба"
+  - "Пані Кубо не дає мені бути невидимим"
 category: anime
 score: 6
 locale: ru

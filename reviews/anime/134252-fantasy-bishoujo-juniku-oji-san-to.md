@@ -1,5 +1,9 @@
 ---
 title: "Fantasy Bishoujo Juniku Oji-san to"
+aka:
+  - "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout"
+  - "Фантастический мир с обращённым в красавицу мужчиной и…"
+  - "Фантастичний світ з перетворенням чоловіка у красуню та…"
 category: anime
 score: 6
 locale: ru

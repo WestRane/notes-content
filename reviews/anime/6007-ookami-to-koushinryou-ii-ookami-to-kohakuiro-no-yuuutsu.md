@@ -1,5 +1,9 @@
 ---
 title: "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu"
+aka:
+  - "Spice and Wolf II: Wolf and the Amber Melancholy"
+  - "Волчица и пряности II: Волчица и янтарная меланхолия"
+  - "Вовчиця і прянощі - 2 сезон: Вовчиця і бурштинова меланхолія"
 category: anime
 score: 7
 locale: ru

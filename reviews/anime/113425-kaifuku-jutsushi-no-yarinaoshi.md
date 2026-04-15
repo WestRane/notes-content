@@ -1,5 +1,9 @@
 ---
 title: "Kaifuku Jutsushi no Yarinaoshi"
+aka:
+  - "Redo of Healer"
+  - "Маг-целитель: Новый старт"
+  - "Повтор цілителя"
 category: anime
 score: 1
 locale: ru

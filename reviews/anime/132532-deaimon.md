@@ -1,5 +1,9 @@
 ---
 title: "Deaimon"
+aka:
+  - "Deaimon: Recipe for Happiness"
+  - "Дэаймон"
+  - "Рецепт щастя"
 category: anime
 score: 5
 locale: ru

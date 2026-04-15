@@ -1,5 +1,9 @@
 ---
 title: "Fumetsu no Anata e"
+aka:
+  - "To Your Eternity"
+  - "Для тебя, Бессмертный"
+  - "Для тебе, Вічний"
 category: anime
 score: 7
 locale: ru

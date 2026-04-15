@@ -1,5 +1,9 @@
 ---
 title: "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
+aka:
+  - "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+  - "Лучший в мире ассасин, переродившийся в другом мире как аристократ"
+  - "Найкращий у світі вбивця перероджується в іншому світі як аристократ"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Senpai ga Uzai Kouhai no Hanashi"
+aka:
+  - "My Senpai is Annoying"
+  - "Мой сэмпай раздражает!"
+  - "Мій семпай дратує"
 category: anime
 score: 8
 locale: ru

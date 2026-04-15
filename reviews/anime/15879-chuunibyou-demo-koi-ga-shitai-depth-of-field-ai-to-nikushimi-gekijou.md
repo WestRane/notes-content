@@ -1,5 +1,9 @@
 ---
 title: "Chuunibyou demo Koi ga Shitai!: DEPTH OF FIELD - Ai to Nikushimi Gekijou"
+aka:
+  - "Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou"
+  - "Чудачества любви не помеха! На линии фронта"
+  - "Чюнібьо теж хочуть кохати! Глибина різкості: Театр кохання та ненависті"
 category: anime
 score: 2
 locale: ru

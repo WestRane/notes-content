@@ -1,5 +1,9 @@
 ---
 title: "Tejina Senpai"
+aka:
+  - "Magical Sempai"
+  - "Фокусница-старшеклассница"
+  - "Фокусниця-семпай"
 category: anime
 score: 6
 locale: ru

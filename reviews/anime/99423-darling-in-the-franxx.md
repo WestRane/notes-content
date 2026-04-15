@@ -1,5 +1,9 @@
 ---
 title: "Darling in the Franxx"
+aka:
+  - "DARLING in the FRANXX"
+  - "Милый во Франксе"
+  - "Любий у Франксі"
 category: anime
 score: 3
 locale: ru

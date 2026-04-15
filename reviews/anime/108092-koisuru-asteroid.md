@@ -1,5 +1,9 @@
 ---
 title: "Koisuru Asteroid"
+aka:
+  - "Asteroid in Love"
+  - "Влюблённый астероид"
+  - "Закоханий астероїд"
 category: anime
 score: 6
 locale: ru

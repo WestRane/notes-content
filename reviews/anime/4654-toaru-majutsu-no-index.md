@@ -1,5 +1,9 @@
 ---
 title: "Toaru Majutsu no Index"
+aka:
+  - "A Certain Magical Index"
+  - "Индекс волшебства"
+  - "Певний магічний Індекс"
 category: anime
 score: 4
 locale: ru

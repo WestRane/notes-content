@@ -1,5 +1,9 @@
 ---
 title: "Jaku-Chara Tomozaki-kun"
+aka:
+  - "Bottom-Tier Character Tomozaki"
+  - "Низкоуровневый персонаж Томодзаки"
+  - "Низькорівневий персонаж Томодзакі"
 category: anime
 score: 5
 locale: ru

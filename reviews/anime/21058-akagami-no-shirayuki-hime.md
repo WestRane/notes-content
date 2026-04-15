@@ -1,5 +1,9 @@
 ---
 title: "Akagami no Shirayuki-hime"
+aka:
+  - "Snow White with the Red Hair"
+  - "Красноволосая принцесса Белоснежка"
+  - "Рудоволоса Білосніжка"
 category: anime
 score: 6
 locale: ru

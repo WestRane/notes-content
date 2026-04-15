@@ -1,5 +1,9 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
+aka:
+  - "Puella Magi Madoka Magica the Movie -Rebellion-"
+  - "Девочка-волшебница Мадока★Волшебный фильм 3: История восстания"
+  - "Чарівниця Мадока★Маґіка Фільм 3: Історія повстання"
 category: anime
 score: 3
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "K-ON!!: Keikaku!"
+aka:
+  - "K-ON! Season 2: Plan!"
+  - "Кэйон!! План!"
+  - "Кей-Он!! План!"
 category: anime
 score: 8
 locale: ru

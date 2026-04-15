@@ -1,5 +1,9 @@
 ---
 title: "Tensai Ouji no Akaji Kokka Saisei Jutsu"
+aka:
+  - "The Genius Prince's Guide to Raising a Nation Out of Debt"
+  - "Руководство гениального принца по вызволению страны из долгов"
+  - "Посібник принца-генія з виводу країни з боргів"
 category: anime
 score: 7
 locale: ru

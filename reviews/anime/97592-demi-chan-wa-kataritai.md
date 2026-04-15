@@ -1,5 +1,9 @@
 ---
 title: "Demi-chan wa Kataritai"
+aka:
+  - "Interviews with Monster Girls"
+  - "Деми-тян хочет рассказать"
+  - "Демі-чян бажають потеревенити"
 category: anime
 score: 8
 locale: ru

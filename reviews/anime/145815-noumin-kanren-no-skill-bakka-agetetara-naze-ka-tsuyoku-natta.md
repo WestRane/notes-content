@@ -1,5 +1,9 @@
 ---
 title: "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta."
+aka:
+  - "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills"
+  - "Каким-то образом я стал сильнейшим, прокачивая фермерские навыки"
+  - "Прокачуючи свої фермерські навички я, якимсь чином, став сильнішим"
 category: anime
 score: 5
 locale: ru

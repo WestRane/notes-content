@@ -1,5 +1,9 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Eien no Monogatari"
+aka:
+  - "Puella Magi Madoka Magica the Movie Part 2: Eternal"
+  - "Девочка-волшебница Мадока★Волшебный фильм 2:  История вечности"
+  - "Чарівниця Мадока★Маґіка Фільм 2: Історія вічності"
 category: anime
 score: 7
 locale: ru

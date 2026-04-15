@@ -1,5 +1,9 @@
 ---
 title: "Hagane no Renkinjutsushi"
+aka:
+  - "Fullmetal Alchemist"
+  - "Стальной алхимик"
+  - "Сталевий алхімік"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Sakamoto desu ga?"
+aka:
+  - "Haven't You Heard? I'm Sakamoto"
+  - "Я — Сакамото, а что?"
+  - "Я — Сакамото, втямили?"
 category: anime
 score: 7
 locale: ru

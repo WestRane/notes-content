@@ -1,5 +1,8 @@
 ---
 title: "Wotaku ni Koi wa Muzukashii OVA"
+aka:
+  - "Так сложно любить отаку OVA"
+  - "Так складно кохати отаку OVA"
 category: anime
 score: 8
 locale: ru

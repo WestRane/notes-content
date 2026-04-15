@@ -1,5 +1,9 @@
 ---
 title: "Meikyuu Black Company"
+aka:
+  - "The Dungeon of Black Company"
+  - "Тяжкий труд в подземелье"
+  - "Підземелля Чорної компанії"
 category: anime
 score: 7
 locale: ru

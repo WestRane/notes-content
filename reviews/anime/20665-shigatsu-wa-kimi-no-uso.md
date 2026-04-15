@@ -1,5 +1,9 @@
 ---
 title: "Shigatsu wa Kimi no Uso"
+aka:
+  - "Your lie in April"
+  - "Твоя апрельская ложь"
+  - "Твоя квітнева брехня"
 category: anime
 score: 8
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Seishun Buta Yarou wa Santa Claus no Yume wo Minai"
+aka:
+  - "Rascal Does Not Dream of Santa Claus"
+  - "Этот глупый свин не понимает мечту Санта-Клауса"
+  - "Негідники не мріють про Санта-Клауса"
 category: anime
 score: 8
 locale: ru

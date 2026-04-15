@@ -1,5 +1,9 @@
 ---
 title: "Kanojo ga Koushaku-tei ni Itta Riyuu"
+aka:
+  - "Why Raeliana Ended Up at the Duke’s Mansion"
+  - "Невеста герцога по контракту"
+  - "Раеліана: Наречена герцога за контрактом"
 category: anime
 score: 7
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Kaoru Hana wa Rin to Saku"
+aka:
+  - "The Fragrant Flower Blooms With Dignity"
+  - "Благоухающий цветок расцветает с достоинством"
+  - "Запашна квітка цвіте гідно"
 category: anime
 score: 7
 locale: ru

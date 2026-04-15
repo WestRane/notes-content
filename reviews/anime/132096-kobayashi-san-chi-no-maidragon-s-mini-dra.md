@@ -1,5 +1,9 @@
 ---
 title: "Kobayashi-san Chi no Maidragon S: Mini Dra"
+aka:
+  - "Miss Kobayashi's Dragon Maid S: Miniature Dragon"
+  - "Мини-дракон"
+  - "Мінідракон"
 category: anime
 score: 8
 locale: ru

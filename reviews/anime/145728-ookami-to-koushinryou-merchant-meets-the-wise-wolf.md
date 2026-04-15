@@ -1,5 +1,9 @@
 ---
 title: "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF"
+aka:
+  - "Spice and Wolf: MERCHANT MEETS THE WISE WOLF"
+  - "Волчица и пряности: Торговец встречает мудрую волчицу"
+  - "Вовчиця і прянощі: Торговець зустрічає мудру вовчицю"
 category: anime
 score: 8
 locale: ru

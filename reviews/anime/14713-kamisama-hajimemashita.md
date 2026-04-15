@@ -1,5 +1,9 @@
 ---
 title: "Kamisama Hajimemashita"
+aka:
+  - "Kamisama Kiss"
+  - "Очень приятно, Бог"
+  - "Приємно познайомитись, Бог"
 category: anime
 score: 6
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Sword Art Online: Alicization - War of Underworld"
+aka:
+  - "Sword Art Online: Alicization - War of Underworld"
+  - "Мастера Меча Онлайн: Алисизация — Война в Подмирье"
+  - "Мистецтво Меча Онлайн: Алісізація - Війна за Підсвіт"
 category: anime
 score: 5
 locale: ru

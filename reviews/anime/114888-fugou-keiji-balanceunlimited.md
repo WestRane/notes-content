@@ -1,5 +1,9 @@
 ---
 title: "Fugou Keiji: Balance:UNLIMITED"
+aka:
+  - "The Millionaire Detective - Balance: UNLIMITED"
+  - "Богатый детектив. Баланс: Неограничен"
+  - "Детектив-мільйонер: Невичерпний баланс"
 category: anime
 score: 6
 locale: ru

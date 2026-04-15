@@ -1,5 +1,9 @@
 ---
 title: "Maou-jou de Oyasumi"
+aka:
+  - "Sleepy Princess in the Demon Castle"
+  - "Сон в замке демона"
+  - "Сон в замку демона"
 category: anime
 score: 7
 locale: ru

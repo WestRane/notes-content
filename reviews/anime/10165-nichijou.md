@@ -1,5 +1,9 @@
 ---
 title: "Nichijou"
+aka:
+  - "Nichijou - My Ordinary Life"
+  - "Мелочи жизни"
+  - "Повсякденнощі"
 category: anime
 score: 5
 locale: ru

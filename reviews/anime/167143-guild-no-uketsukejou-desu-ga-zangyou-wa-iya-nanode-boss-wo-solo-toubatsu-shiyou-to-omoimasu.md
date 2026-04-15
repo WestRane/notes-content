@@ -1,5 +1,9 @@
 ---
 title: "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu"
+aka:
+  - "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
+  - "Я секретарь гильдии, но я не люблю сверхурочную работу, поэтому я собираюсь подчинить босса в одиночку"
+  - "Я секретарка в гільдії, але ненавиджу понаднормові, тож збираюся вбити боса самотужки"
 category: anime
 score: 5
 locale: ru

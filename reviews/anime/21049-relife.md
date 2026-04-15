@@ -1,5 +1,9 @@
 ---
 title: "ReLIFE"
+aka:
+  - "ReLIFE"
+  - "Повторная жизнь"
+  - "Рілайф"
 category: anime
 score: 5
 locale: ru

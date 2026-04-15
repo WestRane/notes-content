@@ -1,5 +1,9 @@
 ---
 title: "Kakegurui"
+aka:
+  - "Kakegurui"
+  - "Безумный азарт"
+  - "Шалений азарт"
 category: anime
 score: 7
 locale: ru

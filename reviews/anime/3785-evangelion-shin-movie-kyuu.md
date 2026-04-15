@@ -1,5 +1,9 @@
 ---
 title: "Evangelion Shin Movie: Kyuu"
+aka:
+  - "Evangelion: 3.0 You Can (Not) Redo"
+  - "Евангелион 3.33: Ты (не) исправишь"
+  - "Євангеліон 3.0 Ти (Не) Зміниш"
 category: anime
 score: 1
 locale: ru

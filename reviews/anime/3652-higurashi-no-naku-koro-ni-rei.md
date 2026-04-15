@@ -1,5 +1,9 @@
 ---
 title: "Higurashi no Naku Koro ni Rei"
+aka:
+  - "When They Cry Rei"
+  - "Когда плачут цикады: Благодарность"
+  - "У час, коли плачуть цикади: Подяка"
 category: anime
 score: 8
 locale: ru

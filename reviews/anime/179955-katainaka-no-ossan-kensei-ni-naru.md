@@ -1,5 +1,9 @@
 ---
 title: "Katainaka no Ossan, Kensei ni Naru"
+aka:
+  - "From Old Country Bumpkin to Master Swordsman"
+  - "Старик из деревни становится Святым мечом"
+  - "Від селянина з глухої місцевості до майстра меча"
 category: anime
 score: 6
 locale: ru

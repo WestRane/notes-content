@@ -1,5 +1,9 @@
 ---
 title: "Emiya-san Chi no Kyou no Gohan"
+aka:
+  - "Today's Menu for the Emiya Family"
+  - "Сегодняшнее меню для Эмии"
+  - "Сьогоднішнє меню для родини Емія"
 category: anime
 score: 7
 locale: ru

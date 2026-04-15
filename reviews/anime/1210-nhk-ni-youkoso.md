@@ -1,5 +1,9 @@
 ---
 title: "NHK ni Youkoso!"
+aka:
+  - "Welcome to the N-H-K"
+  - "Добро пожаловать в NHK"
+  - "Ласкаво просимо до NHK!"
 category: anime
 score: 5
 locale: ru

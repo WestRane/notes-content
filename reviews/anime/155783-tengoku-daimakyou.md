@@ -1,5 +1,9 @@
 ---
 title: "Tengoku Daimakyou"
+aka:
+  - "Tengoku Daimakyo"
+  - "Иллюзия рая"
+  - "Ілюзія раю"
 category: anime
 score: 5
 locale: ru

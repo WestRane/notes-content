@@ -1,5 +1,9 @@
 ---
 title: "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai"
+aka:
+  - "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist"
+  - "Скучный мир, где не существует самой идеи похабных шуток"
+  - "Непристойно пристойний світ"
 category: anime
 score: 6
 locale: ru

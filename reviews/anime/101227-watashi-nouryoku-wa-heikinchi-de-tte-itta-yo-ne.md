@@ -1,5 +1,9 @@
 ---
 title: "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!"
+aka:
+  - "Didn't I Say to Make My Abilities Average in the Next Life?!"
+  - "Разве я не просила усреднить мои способности в следующей жизни?!"
+  - "Хіба я не просила зробити мої здібності у наступному житті посередніми?!"
 category: anime
 score: 6
 locale: ru

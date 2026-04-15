@@ -1,5 +1,9 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+aka:
+  - "Kaguya-sama: Love is War -Ultra Romantic-"
+  - "Госпожа Кагуя: в любви как на войне 3"
+  - "Каґуя хоче, щоб їй зізналися: Ультраромантика"
 category: anime
 score: 9
 locale: ru

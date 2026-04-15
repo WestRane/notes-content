@@ -1,5 +1,9 @@
 ---
 title: "Kono Bijutsu-bu ni wa Mondai ga Aru!"
+aka:
+  - "This Art Club Has a Problem!"
+  - "С этим клубом точно что-то не так!"
+  - "У цьому артгуртку є проблеми!"
 category: anime
 score: 8
 locale: ru

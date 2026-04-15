@@ -1,5 +1,9 @@
 ---
 title: "takt op.Destiny"
+aka:
+  - "takt op.Destiny"
+  - "Такт. Опус Судьба"
+  - "Такт Опус. Доля"
 category: anime
 score: 5
 locale: ru

@@ -1,5 +1,9 @@
 ---
 title: "Satsuriku no Tenshi"
+aka:
+  - "Angels of Death"
+  - "Ангел кровопролития"
+  - "Янголи смерті"
 category: anime
 score: 3
 locale: ru

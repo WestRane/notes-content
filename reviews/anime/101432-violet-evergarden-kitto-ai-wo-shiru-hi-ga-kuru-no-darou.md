@@ -1,5 +1,5 @@
 ---
-title: "Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou"
+title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
 category: anime
 score: 8
 locale: ru

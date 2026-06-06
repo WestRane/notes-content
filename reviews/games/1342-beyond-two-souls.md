@@ -1,7 +1,7 @@
 ---
 title: "Beyond: Two Souls"
 category: games
-score: 7
+score: 6
 locale: en
 tags:
   - note

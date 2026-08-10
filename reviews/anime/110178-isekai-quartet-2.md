@@ -5,7 +5,7 @@ aka:
   - "Квартет из альтернативного мира 2"
   - "Квартет потраплянців - 2 сезон"
 category: anime
-score: 6
+score: 7
 locale: ru
 tags:
   - review

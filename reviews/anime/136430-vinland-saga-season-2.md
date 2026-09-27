@@ -1,5 +1,6 @@
 ---
 title: "VINLAND SAGA SEASON 2"
+tagline: "Тишина полей на руинах былой ярости"
 aka:
   - "Vinland Saga Season 2"
   - "Сага о Винланде 2"

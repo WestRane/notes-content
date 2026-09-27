@@ -1,5 +1,6 @@
 ---
 title: "Overlord: Sei Oukoku-hen"
+tagline: "Очередной холодный расчёт Назарика"
 aka:
   - "OVERLORD: The Sacred Kingdom"
   - "Повелитель: Святое королевство"

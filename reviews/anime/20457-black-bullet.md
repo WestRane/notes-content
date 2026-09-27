@@ -1,5 +1,6 @@
 ---
 title: "Black Bullet"
+tagline: "Атмосфера отчаяния под маской типичности"
 aka:
   - "Black Bullet"
   - "Чёрная пуля"

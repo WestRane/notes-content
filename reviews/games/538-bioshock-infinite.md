@@ -1,5 +1,6 @@
 ---
 title: "BioShock Infinite"
+tagline: "От аудиокассет к живым лицам мультивселенной"
 category: games
 score: 8
 locale: ru

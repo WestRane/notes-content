@@ -1,5 +1,6 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+tagline: "Сказ об адаптации книжного чужака"
 aka:
   - "Ascendance of a Bookworm"
   - "Власть книжного червя"

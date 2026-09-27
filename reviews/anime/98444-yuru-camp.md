@@ -1,5 +1,6 @@
 ---
 title: "Yuru Camp△"
+tagline: "Про дрова, добро и покой"
 aka:
   - "Laid-Back Camp"
   - "Лагерь на свежем воздухе"

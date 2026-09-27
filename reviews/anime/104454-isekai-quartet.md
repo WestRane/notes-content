@@ -1,5 +1,6 @@
 ---
 title: "Isekai Quartet"
+tagline: "Кроссоверное чудо"
 aka:
   - "Isekai Quartet"
   - "Квартет из альтернативного мира"

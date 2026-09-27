@@ -1,5 +1,6 @@
 ---
 title: "Yuru Camp△ Movie"
+tagline: "Финальный аккорд прощающейся студии"
 aka:
   - "Laid-Back Camp The Movie"
   - "Лагерь на свежем воздухе. Фильм"

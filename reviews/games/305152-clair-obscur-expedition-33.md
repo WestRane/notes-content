@@ -1,5 +1,6 @@
 ---
 title: "Clair Obscur: Expedition 33"
+tagline: "Жестокая цена эскапизма"
 category: games
 score: 9
 locale: ru

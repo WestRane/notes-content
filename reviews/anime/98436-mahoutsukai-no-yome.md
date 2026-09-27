@@ -1,5 +1,6 @@
 ---
 title: "Mahoutsukai no Yome"
+tagline: "Дефицит взросления героев"
 aka:
   - "The Ancient Magus' Bride"
   - "Невеста чародея"

@@ -1,5 +1,6 @@
 ---
 title: "Saiki Kusuo no Ψ-nan 2"
+tagline: "Цундере здорового человека"
 aka:
   - "The Disastrous Life of Saiki K. Season 2"
   - "Ох уж этот экстрасенс Сайки Кусуо! 2"

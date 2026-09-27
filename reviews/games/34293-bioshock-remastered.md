@@ -1,5 +1,6 @@
 ---
 title: "BioShock Remastered"
+tagline: "Герой на радиоуправлении в пустом месиве"
 category: games
 score: 5
 locale: ru

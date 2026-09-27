@@ -1,5 +1,6 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
+tagline: "Десять минут смысла в океане псевдоэстетики"
 aka:
   - "Puella Magi Madoka Magica the Movie -Rebellion-"
   - "Девочка-волшебница Мадока★Волшебный фильм 3: История восстания"

@@ -1,5 +1,6 @@
 ---
 title: "BioShock 2 Remastered"
+tagline: "Комфортный ребаланс и плавный сюжет"
 category: games
 score: 7
 locale: ru

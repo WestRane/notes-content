@@ -1,5 +1,6 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 4"
+tagline: "Нелепая политика и картонные конфликты"
 aka:
   - "The Rising of the Shield Hero Season 4"
   - "Восхождение героя щита 4"

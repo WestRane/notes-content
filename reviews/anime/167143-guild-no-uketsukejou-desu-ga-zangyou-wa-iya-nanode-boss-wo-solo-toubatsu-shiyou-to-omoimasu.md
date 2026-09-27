@@ -1,5 +1,6 @@
 ---
 title: "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu"
+tagline: "Стагнация в тени многообещающей повседневности"
 aka:
   - "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
   - "Я секретарь гильдии, но я не люблю сверхурочную работу, поэтому я собираюсь подчинить босса в одиночку"

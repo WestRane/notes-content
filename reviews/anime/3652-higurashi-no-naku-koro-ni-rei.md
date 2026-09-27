@@ -1,5 +1,6 @@
 ---
 title: "Higurashi no Naku Koro ni Rei"
+tagline: "Гнетущее отчаяние и безупречный мир"
 aka:
   - "When They Cry Rei"
   - "Когда плачут цикады: Благодарность"

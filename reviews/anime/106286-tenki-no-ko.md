@@ -1,5 +1,6 @@
 ---
 title: "Tenki no Ko"
+tagline: "Сценарная лень под красивый дождь"
 aka:
   - "Weathering With You"
   - "Дитя погоды"

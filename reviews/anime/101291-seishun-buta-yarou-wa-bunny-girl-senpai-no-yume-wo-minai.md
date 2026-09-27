@@ -1,5 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+tagline: "Психология в обёртке мистики"
 aka:
   - "Rascal Does Not Dream of Bunny Girl Senpai"
   - "Этот глупый свин не понимает мечту девочки-зайки"

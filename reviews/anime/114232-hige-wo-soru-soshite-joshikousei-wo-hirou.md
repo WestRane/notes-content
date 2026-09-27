@@ -1,5 +1,6 @@
 ---
 title: "Hige wo Soru. Soshite Joshikousei wo Hirou."
+tagline: "Крах смелой завязки под гнётом гаремных клише"
 aka:
   - "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
   - "Я побрился. Затем привёл домой старшеклассницу"

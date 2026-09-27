@@ -1,5 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+tagline: "Детерминизм во благо драмы"
 aka:
   - "Rascal Does Not Dream of a Dreaming Girl"
   - "Этот глупый свин не понимает мечту девочки-мечтательницы"

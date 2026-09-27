@@ -1,5 +1,6 @@
 ---
 title: "Hai to Gensou no Grimgar"
+tagline: "Тепло костра на холодном ветру"
 aka:
   - "Grimgar of Fantasy and Ash"
   - "Гримгал пепла и иллюзий"

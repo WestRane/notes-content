@@ -1,5 +1,6 @@
 ---
 title: "Heya Camp△: Sauna to Gohan to Sanrin Bike"
+tagline: "A great advertisement"
 aka:
   - "ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes"
   - "Комнатный поход: Сауна, рис и трёхколёсный мотоцикл"

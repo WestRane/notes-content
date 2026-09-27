@@ -1,5 +1,6 @@
 ---
 title: "Heya Camp△"
+tagline: "Wholesome, but a little too niche"
 aka:
   - "ROOM CAMP"
   - "Комнатный поход"

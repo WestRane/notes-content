@@ -1,5 +1,6 @@
 ---
 title: "Kage no Jitsuryokusha ni Naritakute!"
+tagline: "Метания между тонкой пародией и дешёвым исекаем"
 aka:
   - "The Eminence in Shadow"
   - "Восхождение в тени!"

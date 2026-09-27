@@ -1,5 +1,6 @@
 ---
 title: "Overlord"
+tagline: "Возведение хорошего пафоса"
 aka:
   - "Overlord"
   - "Повелитель"

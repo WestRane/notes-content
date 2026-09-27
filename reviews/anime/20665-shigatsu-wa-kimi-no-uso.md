@@ -1,5 +1,6 @@
 ---
 title: "Shigatsu wa Kimi no Uso"
+tagline: "Эгоизм под пианино и листья сакуры"
 aka:
   - "Your lie in April"
   - "Твоя апрельская ложь"

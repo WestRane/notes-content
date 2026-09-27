@@ -1,5 +1,6 @@
 ---
 title: "Grand Blue"
+tagline: "Акватория смеха и уюта"
 aka:
   - "Grand Blue Dreaming"
   - "Необъятный океан"

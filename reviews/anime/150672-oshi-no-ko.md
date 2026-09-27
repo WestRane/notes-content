@@ -1,5 +1,6 @@
 ---
 title: "[Oshi no Ko]"
+tagline: "Шоу-бизнес без прикрас"
 aka:
   - "Oshi No Ko"
   - "Ребёнок идола"

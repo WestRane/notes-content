@@ -1,5 +1,6 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari"
+tagline: "Утоление интереса и вопросы к персонажам"
 aka:
   - "Puella Magi Madoka Magica the Movie Part 1: Beginnings"
   - "Девочка-волшебница Мадока★Волшебный фильм 1:  История начала"

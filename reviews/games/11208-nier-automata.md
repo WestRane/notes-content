@@ -1,5 +1,6 @@
 ---
 title: "NieR: Automata"
+tagline: "Надругательство над смыслом в пустом мире"
 category: games
 score: 2
 locale: ru

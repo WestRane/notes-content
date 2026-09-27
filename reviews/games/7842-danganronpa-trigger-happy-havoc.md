@@ -1,5 +1,6 @@
 ---
 title: "Danganronpa: Trigger Happy Havoc"
+tagline: "Школа отчаяния и безнадёжные однобокие герои"
 category: games
 score: 7
 locale: ru

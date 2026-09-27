@@ -1,5 +1,6 @@
 ---
 title: "Sentouin, Hakenshimasu!"
+tagline: "Дефицит лора в ламповых декорациях злой корпорации"
 aka:
   - "Combatants Will Be Dispatched!"
   - "Комбатанты будут высланы!"

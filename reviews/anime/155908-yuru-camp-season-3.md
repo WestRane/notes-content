@@ -1,5 +1,6 @@
 ---
 title: "Yuru Camp△ SEASON 3"
+tagline: "Нерушимые устои любимой вселенной"
 aka:
   - "Laid-Back Camp Season 3"
   - "Лагерь на свежем воздухе 3"

@@ -1,5 +1,6 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica: Eien no Monogatari"
+tagline: "Умеренная ловушка абстракций и условностей"
 aka:
   - "Puella Magi Madoka Magica the Movie Part 2: Eternal"
   - "Девочка-волшебница Мадока★Волшебный фильм 2:  История вечности"

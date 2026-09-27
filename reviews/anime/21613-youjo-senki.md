@@ -1,5 +1,6 @@
 ---
 title: "Youjo Senki"
+tagline: "Твір про згубність нелюдяності"
 aka:
   - "Saga of Tanya the Evil"
   - "Военная хроника маленькой девочки"

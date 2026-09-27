@@ -1,5 +1,6 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+tagline: "Испытание реальностью после признания"
 aka:
   - "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
   - "Госпожа Кагуя: в любви как на войне — Первый поцелуй никогда не заканчивается"

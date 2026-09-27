@@ -1,5 +1,6 @@
 ---
 title: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2"
+tagline: "Эгоизм в тени семейных ценностей"
 aka:
   - "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2"
   - "Реинкарнация безработного: История о приключениях в другом мире 2. Часть 2"

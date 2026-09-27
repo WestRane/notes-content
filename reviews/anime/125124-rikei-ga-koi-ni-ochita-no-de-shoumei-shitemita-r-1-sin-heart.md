@@ -1,5 +1,6 @@
 ---
 title: "Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ (Heart)"
+tagline: "Хорошие дуэты и выстроенный уют"
 aka:
   - "Science Fell in Love, So I Tried to Prove It r=1-sinθ"
   - "Влюблённые учёные и научное доказательство любви 2"

@@ -1,5 +1,6 @@
 ---
 title: "Higurashi no Naku Koro ni Gou"
+tagline: "Плевок в столетнюю борьбу Рики"
 aka:
   - "Higurashi: When They Cry - GOU"
   - "Когда плачут цикады: Карма"

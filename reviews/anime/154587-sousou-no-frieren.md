@@ -1,5 +1,6 @@
 ---
 title: "Sousou no Frieren"
+tagline: "Искусство меланхолии и уюта пути"
 aka:
   - "Frieren: Beyond Journey’s End"
   - "Провожающая в последний путь Фрирен"

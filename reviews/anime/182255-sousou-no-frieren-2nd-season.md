@@ -1,5 +1,6 @@
 ---
 title: "Sousou no Frieren 2nd Season"
+tagline: "Дальнейший путь с комфортной глубиной"
 aka:
   - "Frieren: Beyond Journey’s End Season 2"
   - "Провожающая в последний путь Фрирен 2"

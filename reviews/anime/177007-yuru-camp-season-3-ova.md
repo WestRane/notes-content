@@ -1,5 +1,6 @@
 ---
 title: "Yuru Camp△ SEASON 3 OVA"
+tagline: "Атмосферное дополнение к истории"
 aka:
   - "Laid-Back Camp Season 3 OVA"
   - "Лагерь на свежем воздухе 3: Спецвыпуски"

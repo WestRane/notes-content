@@ -1,5 +1,6 @@
 ---
 title: "Gin no Saji 2"
+tagline: "Beyond Barns and Stables"
 aka:
   - "Silver Spoon Season 2"
   - "Серебряная ложка 2"

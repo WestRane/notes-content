@@ -1,5 +1,6 @@
 ---
 title: "Made in Abyss"
+tagline: "Две серии смысла в сериях дискомфорта"
 aka:
   - "Made in Abyss"
   - "Созданный в Бездне"

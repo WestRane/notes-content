@@ -1,5 +1,6 @@
 ---
 title: "Parasocial"
+tagline: "Когда всеподозрительность рушит детектив"
 category: games
 score: 4
 locale: ru

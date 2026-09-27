@@ -1,5 +1,6 @@
 ---
 title: "Lethal Company"
+tagline: "Выстрел мультиплеер квота-хорроров"
 category: games
 score: 8
 locale: ru

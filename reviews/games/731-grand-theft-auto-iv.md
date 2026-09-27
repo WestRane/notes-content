@@ -1,5 +1,6 @@
 ---
 title: "Grand Theft Auto IV"
+tagline: "The Illusion of Choice in a Scripted City"
 category: games
 score: 5
 locale: en

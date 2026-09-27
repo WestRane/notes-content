@@ -1,5 +1,6 @@
 ---
 title: "Hibi wa Sugiredo Meshi Umashi"
+tagline: "В поисках уюта"
 aka:
   - "Food for the Soul"
   - "Дни проходят, а еда по-прежнему хороша"

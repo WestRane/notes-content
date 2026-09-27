@@ -1,5 +1,6 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
+tagline: "Доброе высмеивание романтики"
 aka:
   - "Kaguya-sama: Love is War"
   - "Госпожа Кагуя: в любви как на войне"

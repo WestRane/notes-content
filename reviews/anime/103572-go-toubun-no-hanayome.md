@@ -1,5 +1,6 @@
 ---
 title: "Go-toubun no Hanayome"
+tagline: "Пять квинтэссенций шаблонности"
 aka:
   - "The Quintessential Quintuplets"
   - "Пять невест"

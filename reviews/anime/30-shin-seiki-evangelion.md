@@ -1,5 +1,6 @@
 ---
 title: "Shin Seiki Evangelion"
+tagline: "Театр абсурда и псевдофилософская шиза"
 aka:
   - "Neon Genesis Evangelion"
   - "Евангелион нового поколения"

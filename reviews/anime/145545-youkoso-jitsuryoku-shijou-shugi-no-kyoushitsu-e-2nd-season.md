@@ -1,5 +1,6 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+tagline: "Откровенный триумф расчётов и жестокости"
 aka:
   - "Classroom of the Elite Season 2"
   - "Добро пожаловать в класс превосходства 2"

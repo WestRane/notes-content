@@ -1,5 +1,6 @@
 ---
 title: "Horimiya: piece"
+tagline: "Фанфиковый конфликт формы и содержания"
 aka:
   - "Horimiya: The Missing Pieces"
   - "Хоримия: Кусочек"

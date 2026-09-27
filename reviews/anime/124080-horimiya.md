@@ -1,5 +1,6 @@
 ---
 title: "Horimiya"
+tagline: "Реализм здоровых отношений"
 aka:
   - "Horimiya"
   - "Хоримия"

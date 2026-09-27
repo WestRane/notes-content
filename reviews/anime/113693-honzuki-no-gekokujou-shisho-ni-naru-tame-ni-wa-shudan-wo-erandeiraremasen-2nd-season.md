@@ -1,5 +1,6 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
+tagline: "Ключи к сердца слуг и выживание в храме"
 aka:
   - "Ascendance of a Bookworm Part 2"
   - "Власть книжного червя 2"

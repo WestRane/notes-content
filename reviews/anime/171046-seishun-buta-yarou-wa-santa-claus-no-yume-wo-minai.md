@@ -1,5 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Santa Claus no Yume wo Minai"
+tagline: "Кастинг университетской арки"
 aka:
   - "Rascal Does Not Dream of Santa Claus"
   - "Этот глупый свин не понимает мечту Санта-Клауса"

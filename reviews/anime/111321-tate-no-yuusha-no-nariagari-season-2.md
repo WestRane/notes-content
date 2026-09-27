@@ -1,5 +1,6 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 2"
+tagline: "Непростительные грехи экранизации"
 aka:
   - "The Rising of the Shield Hero Season 2"
   - "Восхождение героя щита 2"

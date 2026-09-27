@@ -1,5 +1,6 @@
 ---
 title: "Beyond: Two Souls"
+tagline: "Captivating Drama in a Carousel of Bullying"
 category: games
 score: 6
 locale: en

@@ -1,5 +1,6 @@
 ---
 title: "Tate no Yuusha no Nariagari"
+tagline: "Личный триумф чувств над здравым смыслом"
 aka:
   - "The Rising of the Shield Hero"
   - "Восхождение героя щита"

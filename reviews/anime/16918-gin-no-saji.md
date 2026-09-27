@@ -1,5 +1,6 @@
 ---
 title: "Gin no Saji"
+tagline: "A hidden agricultural gem"
 aka:
   - "Silver Spoon"
   - "Серебряная ложка"

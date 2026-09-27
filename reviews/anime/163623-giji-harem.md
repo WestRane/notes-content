@@ -1,5 +1,6 @@
 ---
 title: "Giji Harem"
+tagline: "A Clichéd Disguise"
 aka:
   - "Pseudo Harem"
   - "Псевдогарем"

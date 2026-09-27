@@ -1,5 +1,6 @@
 ---
 title: "Overlord II"
+tagline: "Болота ящеров и человечность стражей"
 aka:
   - "Overlord II"
   - "Повелитель 2"

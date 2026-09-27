@@ -1,5 +1,6 @@
 ---
 title: "Ookami to Koushinryou II"
+tagline: "Экономика одиночества и крах коммуникации"
 aka:
   - "Spice and Wolf II"
   - "Волчица и пряности II"

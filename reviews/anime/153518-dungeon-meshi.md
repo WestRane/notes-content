@@ -1,5 +1,6 @@
 ---
 title: "Dungeon Meshi"
+tagline: "Экология монстров и кулинарный азарт"
 aka:
   - "Delicious in Dungeon"
   - "Подземелье вкусностей"

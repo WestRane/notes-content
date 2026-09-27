@@ -1,5 +1,6 @@
 ---
 title: "Chi. Chikyuu no Undou ni Tsuite"
+tagline: "Софистика и интерес в средневековых декорациях"
 aka:
   - "Orb: On the Movements of the Earth"
   - "О движении Земли"

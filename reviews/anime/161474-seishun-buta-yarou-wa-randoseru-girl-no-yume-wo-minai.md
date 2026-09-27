@@ -1,5 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai"
+tagline: "Как главный герой занялся собой"
 aka:
   - "Rascal Does Not Dream of a Knapsack Kid"
   - "Этот глупый свин не понимает мечту девушки с рюкзаком"

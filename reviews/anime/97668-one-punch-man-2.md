@@ -1,5 +1,6 @@
 ---
 title: "One Punch Man 2"
+tagline: "Мемуары антагониста Гаро"
 aka:
   - "One-Punch Man Season 2"
   - "Ванпанчмен 2"

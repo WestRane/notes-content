@@ -1,5 +1,6 @@
 ---
 title: "JoJo no Kimyou na Bouken: Stone Ocean Part 2"
+tagline: "Тюремный драйв в тени скучного антагониста"
 aka:
   - "JoJo's Bizarre Adventure: STONE OCEAN Part 2"
   - "Невероятное приключение ДжоДжо: Каменный океан. Часть 2"

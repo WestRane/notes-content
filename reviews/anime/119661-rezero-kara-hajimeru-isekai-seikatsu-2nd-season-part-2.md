@@ -1,5 +1,6 @@
 ---
 title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
+tagline: "Святилище бесконечного раздражения"
 aka:
   - "Re:ZERO -Starting Life in Another World- Season 2 Part 2"
   - "Re:Zero. Жизнь с нуля в альтернативном мире 2. Часть 2"

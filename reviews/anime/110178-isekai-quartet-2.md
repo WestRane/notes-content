@@ -1,5 +1,6 @@
 ---
 title: "Isekai Quartet 2"
+tagline: "Просадка непретенциозности"
 aka:
   - "Isekai Quartet 2"
   - "Квартет из альтернативного мира 2"

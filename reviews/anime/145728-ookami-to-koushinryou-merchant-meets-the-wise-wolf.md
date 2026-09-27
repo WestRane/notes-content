@@ -1,5 +1,6 @@
 ---
 title: "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF"
+tagline: "Между старым шармом и новым качеством"
 aka:
   - "Spice and Wolf: MERCHANT MEETS THE WISE WOLF"
   - "Волчица и пряности: Торговец встречает мудрую волчицу"

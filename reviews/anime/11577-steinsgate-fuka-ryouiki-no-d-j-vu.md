@@ -1,5 +1,6 @@
 ---
 title: "Steins;Gate: Fuka Ryouiki no Déjà vu"
+tagline: "По-своему небрежный черновик"
 aka:
   - "Steins;Gate The Movie – Load Region of Déjà Vu"
   - "Врата Штейна: Зона загрузки дежавю"

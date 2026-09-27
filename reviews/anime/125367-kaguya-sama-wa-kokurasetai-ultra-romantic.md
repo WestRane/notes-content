@@ -1,5 +1,6 @@
 ---
 title: "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+tagline: "Ромком, который перерос свои шутки"
 aka:
   - "Kaguya-sama: Love is War -Ultra Romantic-"
   - "Госпожа Кагуя: в любви как на войне 3"

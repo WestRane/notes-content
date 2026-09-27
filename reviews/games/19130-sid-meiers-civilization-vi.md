@@ -1,5 +1,6 @@
 ---
 title: "Sid Meier's Civilization VI"
+tagline: "Блеск ранних эпох и летаргия лейт-гейма"
 category: games
 score: 7
 locale: ru

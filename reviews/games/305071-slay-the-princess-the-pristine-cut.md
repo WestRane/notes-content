@@ -1,5 +1,6 @@
 ---
 title: "Slay the Princess — The Pristine Cut"
+tagline: "A metaphorical love story"
 category: games
 score: 8
 locale: en

@@ -1,5 +1,6 @@
 ---
 title: "Resident Evil 2"
+tagline: "Triumph of Archaic Wrapping and Protracted Catharsis"
 category: games
 score: 6
 locale: en

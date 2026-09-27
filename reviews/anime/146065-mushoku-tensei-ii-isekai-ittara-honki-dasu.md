@@ -1,5 +1,6 @@
 ---
 title: "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+tagline: "Импотенция сюжета в стенах академии"
 aka:
   - "Mushoku Tensei: Jobless Reincarnation Season 2"
   - "Реинкарнация безработного: История о приключениях в другом мире 2"

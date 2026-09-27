@@ -1,5 +1,6 @@
 ---
 title: "Jigokuraku"
+tagline: "Заложник собственного жанра"
 aka:
   - "Hell’s Paradise"
   - "Адский рай"

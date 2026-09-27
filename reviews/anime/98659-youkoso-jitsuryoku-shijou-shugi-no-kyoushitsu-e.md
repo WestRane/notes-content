@@ -1,5 +1,6 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+tagline: "Терпение и подавление как цена за битву умов"
 aka:
   - "Classroom of the Elite"
   - "Добро пожаловать в класс превосходства"

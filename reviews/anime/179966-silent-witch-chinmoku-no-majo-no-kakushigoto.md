@@ -1,5 +1,6 @@
 ---
 title: "Silent Witch: Chinmoku no Majo no Kakushigoto"
+tagline: "Lack of balance between power and immaturity"
 aka:
   - "Secrets of the Silent Witch"
   - "Молчаливая ведьма: Тайна молчаливой колдуньи"

@@ -1,5 +1,6 @@
 ---
 title: "Boku dake ga Inai Machi"
+tagline: "Психология зла и спасение в теле ребёнка"
 aka:
   - "ERASED"
   - "Город, в котором меня нет"

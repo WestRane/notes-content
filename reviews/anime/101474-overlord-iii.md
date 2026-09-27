@@ -1,5 +1,6 @@
 ---
 title: "Overlord III"
+tagline: "Рождение новой стороны дипломатии"
 aka:
   - "Overlord III"
   - "Повелитель 3"

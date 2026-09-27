@@ -1,5 +1,6 @@
 ---
 title: "Sora yori mo Tooi Basho"
+tagline: "Будничная форсированная драма в занимательной обёртке"
 aka:
   - "A Place Further Than the Universe"
   - "Дальше, чем космос"

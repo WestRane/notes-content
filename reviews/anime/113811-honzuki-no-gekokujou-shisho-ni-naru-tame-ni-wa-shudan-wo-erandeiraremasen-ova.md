@@ -1,5 +1,6 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA"
+tagline: "Соприкосновение миров и коммерческие игры"
 aka:
   - "Ascendance of a Bookworm Side Story"
   - "Власть книжного червя OVA"

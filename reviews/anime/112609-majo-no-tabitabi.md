@@ -1,5 +1,6 @@
 ---
 title: "Majo no Tabitabi"
+tagline: "Магия волшебной героини и увлекательных историй"
 aka:
   - "Wandering Witch: The Journey of Elaina"
   - "Путешествие Элейны"

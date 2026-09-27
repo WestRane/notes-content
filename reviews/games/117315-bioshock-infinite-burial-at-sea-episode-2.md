@@ -1,5 +1,6 @@
 ---
 title: "BioShock Infinite: Burial at Sea - Episode 2"
+tagline: "Садизм под маской стелса"
 category: games
 score: 4
 locale: ru

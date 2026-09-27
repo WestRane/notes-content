@@ -1,5 +1,6 @@
 ---
 title: "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+tagline: "Изобилие повторений и скуки"
 aka:
   - "Re:ZERO -Starting Life in Another World- Season 3"
   - "Re:Zero. Жизнь с нуля в альтернативном мире 3"

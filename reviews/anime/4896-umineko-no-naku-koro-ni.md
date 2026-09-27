@@ -1,5 +1,6 @@
 ---
 title: "Umineko no Naku Koro ni"
+tagline: "Подмена детектива магическим абсурдом"
 aka:
   - "Umineko: When They Cry"
   - "Когда плачут чайки"

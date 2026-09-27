@@ -1,5 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai"
+tagline: "Когда драма Каэде важнее мистики"
 aka:
   - "Rascal Does Not Dream of a Sister Venturing Out"
   - "Этот глупый свин не понимает мечту сестры на прогулке"

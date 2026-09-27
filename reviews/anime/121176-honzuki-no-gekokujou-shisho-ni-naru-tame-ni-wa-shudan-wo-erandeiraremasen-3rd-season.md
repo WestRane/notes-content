@@ -1,5 +1,6 @@
 ---
 title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
+tagline: "Постепенная смена жанра"
 aka:
   - "Ascendance of a Bookworm Season 3"
   - "Власть книжного червя 3"

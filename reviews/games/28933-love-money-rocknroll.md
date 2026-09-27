@@ -1,5 +1,6 @@
 ---
 title: "Love, Money, Rock'n'Roll"
+tagline: "Дефицит эмоциональной зрелости"
 category: games
 score: 7
 locale: ru

@@ -1,5 +1,6 @@
 ---
 title: "Higurashi no Naku Koro ni"
+tagline: "Живые персонажи в декорациях кровавого саспенса"
 aka:
   - "When They Cry"
   - "Когда плачут цикады"

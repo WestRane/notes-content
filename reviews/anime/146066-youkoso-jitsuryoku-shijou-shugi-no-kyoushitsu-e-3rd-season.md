@@ -1,5 +1,6 @@
 ---
 title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+tagline: "Рост героев и просчёты авторов"
 aka:
   - "Classroom of the Elite Season 3"
   - "Добро пожаловать в класс превосходства 3"

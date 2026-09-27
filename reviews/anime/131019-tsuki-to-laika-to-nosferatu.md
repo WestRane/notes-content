@@ -1,5 +1,6 @@
 ---
 title: "Tsuki to Laika to Nosferatu"
+tagline: "Космонавтика в тени обманчивой идеологии"
 aka:
   - "Irina: The Vampire Cosmonaut"
   - "Луна, Лайка и Носферату"

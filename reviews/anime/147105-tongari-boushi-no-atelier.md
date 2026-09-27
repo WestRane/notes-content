@@ -1,5 +1,6 @@
 ---
 title: "Tongari Boushi no Atelier"
+tagline: "Уютный волшебный дом в сёдзё декорациях"
 aka:
   - "Witch Hat Atelier"
   - "Ателье колдовских колпаков"

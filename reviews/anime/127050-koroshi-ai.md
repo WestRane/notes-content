@@ -1,5 +1,6 @@
 ---
 title: "Koroshi Ai"
+tagline: "Интрига без катарсиса"
 aka:
   - "Love of Kill"
   - "Убивающая любовь"

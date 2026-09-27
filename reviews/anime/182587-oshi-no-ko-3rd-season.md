@@ -1,5 +1,6 @@
 ---
 title: "[Oshi no Ko] 3rd Season"
+tagline: "Акт высшей любви посредством лжи"
 aka:
   - "OSHI NO KO Season 3"
   - "Ребёнок идола 3"

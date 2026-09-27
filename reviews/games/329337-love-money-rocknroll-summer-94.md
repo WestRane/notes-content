@@ -1,5 +1,6 @@
 ---
 title: "Love, Money, Rock'n'Roll – Summer '94"
+tagline: "Отголосок дешёвого фанфика"
 category: games
 score: 2
 locale: ru

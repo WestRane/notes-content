@@ -1,5 +1,6 @@
 ---
 title: "One Punch Man 3"
+tagline: "Пустые сражения в дешёвой обёртке"
 aka:
   - "One-Punch Man Season 3"
   - "Ванпанчмен 3"

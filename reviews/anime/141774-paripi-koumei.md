@@ -1,5 +1,6 @@
 ---
 title: "Paripi Koumei"
+tagline: "Искусство войны в огнях современной Сибуи"
 aka:
   - "Ya Boy Kongming!"
   - "Тусовщик Кунмин"

@@ -1,5 +1,6 @@
 ---
 title: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+tagline: "Триумф искренности над судьбой затворника"
 aka:
   - "Mushoku Tensei: Jobless Reincarnation Cour 2"
   - "Реинкарнация безработного: История о приключениях в другом мире. Часть 2"

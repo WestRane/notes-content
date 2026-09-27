@@ -1,5 +1,6 @@
 ---
 title: "Higurashi no Naku Koro ni Kai"
+tagline: "Трагедия столетнего плена и щепотка наивности"
 aka:
   - "When They Cry Kai"
   - "Когда плачут цикады: Разгадки"

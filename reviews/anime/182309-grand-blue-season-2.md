@@ -1,5 +1,6 @@
 ---
 title: "Grand Blue Season 2"
+tagline: "Баланс новых граней и старого уютного безумия"
 aka:
   - "Grand Blue Dreaming Season 2"
   - "Необъятный океан 2"

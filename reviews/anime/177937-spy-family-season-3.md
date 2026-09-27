@@ -1,5 +1,6 @@
 ---
 title: "SPY×FAMILY Season 3"
+tagline: "The Weight of a Peaceful Smile"
 aka:
   - "SPY x FAMILY Season 3"
   - "Семья шпиона 3"

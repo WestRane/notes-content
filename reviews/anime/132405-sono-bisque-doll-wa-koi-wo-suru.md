@@ -1,5 +1,6 @@
 ---
 title: "Sono Bisque Doll wa Koi wo Suru"
+tagline: "Романтическая стагнация под гнётом фансервиса"
 aka:
   - "My Dress-Up Darling"
   - "Эта фарфоровая кукла влюбилась"

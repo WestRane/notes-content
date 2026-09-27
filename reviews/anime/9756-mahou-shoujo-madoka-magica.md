@@ -1,5 +1,6 @@
 ---
 title: "Mahou Shoujo Madoka☆Magica"
+tagline: "Энтропия смыслов и иллюзия спасения"
 aka:
   - "Puella Magi Madoka Magica"
   - "Девочка-волшебница Мадока★Волшебство"

@@ -1,5 +1,6 @@
 ---
 title: "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+tagline: "Настоящая драма и достойная комедия"
 aka:
   - "Kaguya-sama: Love is War?"
   - "Госпожа Кагуя: в любви как на войне 2"

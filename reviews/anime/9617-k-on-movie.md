@@ -1,5 +1,6 @@
 ---
 title: "K-ON! Movie"
+tagline: "Финальный аккорд прекрасной жизни"
 aka:
   - "K-ON!: The Movie"
   - "Кэйон в кино!"

@@ -1,5 +1,6 @@
 ---
 title: "Overlord IV"
+tagline: "Торжество рационального прагматизма"
 aka:
   - "Overlord IV"
   - "Повелитель 4"

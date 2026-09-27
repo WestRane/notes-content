@@ -1,5 +1,6 @@
 ---
 title: "Chainsaw Man"
+tagline: "Дефицит смысла в мире пафосных кусков мяса"
 aka:
   - "Chainsaw Man"
   - "Человек-бензопила"

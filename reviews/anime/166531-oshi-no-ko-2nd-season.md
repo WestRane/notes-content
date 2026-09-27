@@ -1,5 +1,6 @@
 ---
 title: "[Oshi no Ko] 2nd Season"
+tagline: "Между крутым произведением и душным сёненом"
 aka:
   - "Oshi no Ko Season 2"
   - "Ребёнок идола 2"

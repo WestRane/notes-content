@@ -1,5 +1,6 @@
 ---
 title: "Kusuriya no Hitorigoto"
+tagline: "Детектив под соусом аристократической интриги"
 aka:
   - "The Apothecary Diaries"
   - "Монолог фармацевта"

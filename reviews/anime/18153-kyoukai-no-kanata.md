@@ -1,5 +1,6 @@
 ---
 title: "Kyoukai no Kanata"
+tagline: "Красота не спасает от скуки"
 aka:
   - "Beyond the Boundary"
   - "По ту сторону границы"

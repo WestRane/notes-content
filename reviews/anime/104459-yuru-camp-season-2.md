@@ -1,5 +1,6 @@
 ---
 title: "Yuru Camp△ SEASON 2"
+tagline: "Торжество человеческого тепла"
 aka:
   - "LAID-BACK CAMP SEASON2"
   - "Лагерь на свежем воздухе 2"

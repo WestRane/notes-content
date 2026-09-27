@@ -1,5 +1,6 @@
 ---
 title: "Kaoru Hana wa Rin to Saku"
+tagline: "Искренность и тепло против шаблонов"
 aka:
   - "The Fragrant Flower Blooms With Dignity"
   - "Благоухающий цветок расцветает с достоинством"

@@ -1,5 +1,6 @@
 ---
 title: "Tate no Yuusha no Nariagari Season 3"
+tagline: "Форсированная драма и персонажи"
 aka:
   - "The Rising of the Shield Hero Season 3"
   - "Восхождение героя щита 3"

@@ -1,11 +1,7 @@
 ---
-title: "Japanese title"
+title: "English title"
 tagline: "Tagline"
-aka:
-  - "English"
-  - "Russian"
-  - "Ukrainian"
-category: anime
+category: games
 score: 0
 locale: en/ru/uk
 tags:
@@ -14,8 +10,8 @@ spoiler: true/false
 created: 2000-01-01T00:00:00+00:00
 modified:
 ids:
-  anilist: 0
-  mal: 0
+  igdb: 0
+  steam: 0
 ---
 
 ## Tagline or First watch

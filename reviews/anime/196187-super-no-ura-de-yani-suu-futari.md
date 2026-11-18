@@ -1,5 +1,6 @@
 ---
 title: "Super no Ura de Yani Suu Futari"
+tagline: "Продажа эстетики взрослой жизни"
 aka:
   - "Smoking Behind the Supermarket with You"
   - "История о перекуре за супермаркетом"
